@@ -1,430 +1,6 @@
 [
     {
         "is_live": true,
-        "date": "2025-07-14T14:00:00Z",
-        "time": "",
-        "id": "521298",
-        "logo": "",
-        "home_team": "Brann 2",
-        "home_image": "https:\/\/sta.vnres.co\/file\/common\/20250712\/bb03c84d333f3159f05983e107adabcb.png",
-        "away_team": "Jerv",
-        "away_image": "https:\/\/sta.vnres.co\/file\/common\/20250712\/8ac67f1fa283ebc92a5499d8a75a90e6.png",
-        "league": "NOR D2",
-        "links": [
-            {
-                "title": "Soco SD",
-                "url": "https:\/\/pull.niues.live\/live\/stream-527384_lsd.m3u8?auth_key=1752523048-0-0-85d7b124779429b1f719901aa068fb84",
-                "referrer": "https:\/\/socolivev.co\/",
-                "user_agent": ""
-            },
-            {
-                "title": "Soco HD",
-                "url": "https:\/\/pull.niues.live\/live\/stream-527384_lhd.m3u8?auth_key=1752523048-0-0-3e45aca9cbd33f719aaa553462463186",
-                "referrer": "https:\/\/socolivev.co\/",
-                "user_agent": ""
-            },
-            {
-                "title": "Soco SD",
-                "url": "https:\/\/pull.niues.live\/live\/stream-491873_lsd.m3u8?auth_key=1752523018-0-0-4792014f623bf27e64ef4d90283ba8a7",
-                "referrer": "https:\/\/socolivev.co\/",
-                "user_agent": ""
-            },
-            {
-                "title": "Soco HD",
-                "url": "https:\/\/pull.niues.live\/live\/stream-491873_lhd.m3u8?auth_key=1752523018-0-0-8346ce207cc19446013a31f2e2421f91",
-                "referrer": "https:\/\/socolivev.co\/",
-                "user_agent": ""
-            },
-            {
-                "title": "Soco SD",
-                "url": "https:\/\/pull.niur.live\/live\/stream-9912105_lsd.m3u8?txSecret=5ba77e3787654657f89491f99d71cea1&txTime=68757c99",
-                "referrer": "https:\/\/socolivev.co\/",
-                "user_agent": ""
-            },
-            {
-                "title": "Soco HD",
-                "url": "https:\/\/pull.niur.live\/live\/stream-9912105_lhd.m3u8?txSecret=5ccc432e79f9d1de8d47ed9a6dc99b53&txTime=68757c99",
-                "referrer": "https:\/\/socolivev.co\/",
-                "user_agent": ""
-            },
-            {
-                "title": "Soco SD",
-                "url": "https:\/\/pull.niues.live\/live\/stream-521298_lsd.m3u8?auth_key=1752531098-0-0-2a239e9e40d10d7f61e2ab5cf1036f0c",
-                "referrer": "https:\/\/socolivev.co\/",
-                "user_agent": ""
-            },
-            {
-                "title": "Soco HD",
-                "url": "https:\/\/pull.niues.live\/live\/stream-521298_lhd.m3u8?auth_key=1752531098-0-0-7ddffaab72197e15c8009af561060f81",
-                "referrer": "https:\/\/socolivev.co\/",
-                "user_agent": ""
-            }
-        ]
-    },
-    {
-        "is_live": true,
-        "date": "2025-07-14T15:00:00Z",
-        "time": "",
-        "id": "9912041",
-        "logo": "",
-        "home_team": "Ilves Tampere",
-        "home_image": "https:\/\/sta.vnres.co\/file\/common\/20250711\/22277e8c44d4328d6d971f6a3418db1d.png",
-        "away_team": "Vaasa VPS",
-        "away_image": "https:\/\/sta.vnres.co\/file\/common\/20250711\/0c1163d139f3b5e847f297fd5c6ec35d.png",
-        "league": "FIN D1",
-        "links": [
-            {
-                "title": "Soco SD",
-                "url": "https:\/\/pull.niues.live\/live\/stream-9912100_lsd.m3u8?auth_key=1752516354-0-0-483d812326b30016de320dddf0ad317b",
-                "referrer": "https:\/\/socolivev.co\/",
-                "user_agent": ""
-            },
-            {
-                "title": "Soco HD",
-                "url": "https:\/\/pull.niues.live\/live\/stream-9912100_lhd.m3u8?auth_key=1752516354-0-0-5940e98db186ddf0669a66699ac748f2",
-                "referrer": "https:\/\/socolivev.co\/",
-                "user_agent": ""
-            },
-            {
-                "title": "Soco SD",
-                "url": "https:\/\/pull.niues.live\/live\/stream-351530_lsd.m3u8?auth_key=1752523245-0-0-674796e1c4d2fc8087bd5715947c24f9",
-                "referrer": "https:\/\/socolivev.co\/",
-                "user_agent": ""
-            },
-            {
-                "title": "Soco HD",
-                "url": "https:\/\/pull.niues.live\/live\/stream-351530_lhd.m3u8?auth_key=1752523245-0-0-7689fc0bc5e6e31a349124137ff0f453",
-                "referrer": "https:\/\/socolivev.co\/",
-                "user_agent": ""
-            },
-            {
-                "title": "Soco SD",
-                "url": "https:\/\/pull.niur.live\/live\/stream-9912103_lsd.m3u8?txSecret=84b4bf08f970351a274fe0a5efc3c40e&txTime=68758e83",
-                "referrer": "https:\/\/socolivev.co\/",
-                "user_agent": ""
-            },
-            {
-                "title": "Soco HD",
-                "url": "https:\/\/pull.niur.live\/live\/stream-9912103_lhd.m3u8?txSecret=16b869bfbac79e31fdf916d13c88a015&txTime=68758e83",
-                "referrer": "https:\/\/socolivev.co\/",
-                "user_agent": ""
-            },
-            {
-                "title": "Soco SD",
-                "url": "https:\/\/pull.niues.live\/live\/stream-9912091_lsd.m3u8?auth_key=1752516340-0-0-e77dbf388466531bb62116598fcfd308",
-                "referrer": "https:\/\/socolivev.co\/",
-                "user_agent": ""
-            },
-            {
-                "title": "Soco HD",
-                "url": "https:\/\/pull.niues.live\/live\/stream-9912091_lhd.m3u8?auth_key=1752516340-0-0-653a0d8467a54af1ec9f48eb6973e161",
-                "referrer": "https:\/\/socolivev.co\/",
-                "user_agent": ""
-            },
-            {
-                "title": "Soco SD",
-                "url": "https:\/\/pull.niues.live\/live\/stream-299144_lsd.m3u8?auth_key=1752516030-0-0-f7ddd6633769df1a0772fab191df2586",
-                "referrer": "https:\/\/socolivev.co\/",
-                "user_agent": ""
-            },
-            {
-                "title": "Soco HD",
-                "url": "https:\/\/pull.niues.live\/live\/stream-299144_lhd.m3u8?auth_key=1752516030-0-0-4d51d80d317cdb71d8f4b9bb80dd13e4",
-                "referrer": "https:\/\/socolivev.co\/",
-                "user_agent": ""
-            },
-            {
-                "title": "Soco SD",
-                "url": "https:\/\/pull.niues.live\/live\/stream-9912041_lsd.m3u8?auth_key=1752515965-0-0-a2f027d7a1df3cdc6b5a2c1af834bdea",
-                "referrer": "https:\/\/socolivev.co\/",
-                "user_agent": ""
-            },
-            {
-                "title": "Soco HD",
-                "url": "https:\/\/pull.niues.live\/live\/stream-9912041_lhd.m3u8?auth_key=1752515965-0-0-f6c1d31c630321210a569e222c87cf30",
-                "referrer": "https:\/\/socolivev.co\/",
-                "user_agent": ""
-            }
-        ]
-    },
-    {
-        "is_live": true,
-        "date": "2025-07-14T15:00:00Z",
-        "time": "",
-        "id": "9912106",
-        "logo": "",
-        "home_team": "Spain U20",
-        "home_image": "https:\/\/sta.vnres.co\/file\/common\/20250712\/c73621f9f504212bd844e5bb531169d4.jpeg",
-        "away_team": "Finland U20",
-        "away_image": "https:\/\/sta.vnres.co\/file\/common\/20250712\/369671da5db08fd21e44777aa595ec81.png",
-        "league": "ECMU20",
-        "links": [
-            {
-                "title": "Soco SD",
-                "url": "https:\/\/pull.niur.live\/live\/stream-9912106_lsd.m3u8?txSecret=4c81ce882175684a6799fcd1aeaefe4e&txTime=68758bf4",
-                "referrer": "https:\/\/socolivev.co\/",
-                "user_agent": ""
-            },
-            {
-                "title": "Soco HD",
-                "url": "https:\/\/pull.niur.live\/live\/stream-9912106_lhd.m3u8?txSecret=0721d93d7f63981c124706e68cfabb3a&txTime=68758bf4",
-                "referrer": "https:\/\/socolivev.co\/",
-                "user_agent": ""
-            }
-        ]
-    },
-    {
-        "is_live": true,
-        "date": "2025-07-14T15:15:00Z",
-        "time": "",
-        "id": "528758",
-        "logo": "",
-        "home_team": "FC Belshina Babruisk",
-        "home_image": "https:\/\/sta.vnres.co\/file\/common\/20250712\/c0382628a9ae8f7bb04bcb19864bbe8a.png",
-        "away_team": "FC Molodechno",
-        "away_image": "https:\/\/sta.vnres.co\/file\/common\/20250712\/8a022879c86f5de4ab94e5bfb0f28366.png",
-        "league": "BLR CUP",
-        "links": [
-            {
-                "title": "Soco SD",
-                "url": "https:\/\/pull.niues.live\/live\/stream-290928_lsd.m3u8?auth_key=1752516356-0-0-a1fdd8670f8560dc41a83e3ed95c42b3",
-                "referrer": "https:\/\/socolivev.co\/",
-                "user_agent": ""
-            },
-            {
-                "title": "Soco HD",
-                "url": "https:\/\/pull.niues.live\/live\/stream-290928_lhd.m3u8?auth_key=1752516356-0-0-9f5cc4dde85a94a8c5cf31211be88059",
-                "referrer": "https:\/\/socolivev.co\/",
-                "user_agent": ""
-            },
-            {
-                "title": "Soco SD",
-                "url": "https:\/\/pull.niues.live\/live\/stream-506804_lsd.m3u8?auth_key=1752516275-0-0-eb3f60f5ba5d4180b7edb841ff8d9ee4",
-                "referrer": "https:\/\/socolivev.co\/",
-                "user_agent": ""
-            },
-            {
-                "title": "Soco HD",
-                "url": "https:\/\/pull.niues.live\/live\/stream-506804_lhd.m3u8?auth_key=1752516275-0-0-80b783ce0a685d65f6939007a1ad9f86",
-                "referrer": "https:\/\/socolivev.co\/",
-                "user_agent": ""
-            },
-            {
-                "title": "Soco SD",
-                "url": "https:\/\/pull.niues.live\/live\/stream-525113_lsd.m3u8?auth_key=1752535532-0-0-ae4d679cb1a940c15ce287c1556f45be",
-                "referrer": "https:\/\/socolivev.co\/",
-                "user_agent": ""
-            },
-            {
-                "title": "Soco HD",
-                "url": "https:\/\/pull.niues.live\/live\/stream-525113_lhd.m3u8?auth_key=1752535532-0-0-b77b040fdbd92cbbc3427852e5ead22e",
-                "referrer": "https:\/\/socolivev.co\/",
-                "user_agent": ""
-            },
-            {
-                "title": "Soco SD",
-                "url": "https:\/\/pull.niues.live\/live\/stream-528758_lsd.m3u8?auth_key=1752535518-0-0-569e00cbe8dad2483952d1b136279f36",
-                "referrer": "https:\/\/socolivev.co\/",
-                "user_agent": ""
-            },
-            {
-                "title": "Soco HD",
-                "url": "https:\/\/pull.niues.live\/live\/stream-528758_lhd.m3u8?auth_key=1752535518-0-0-83f46cca45c44d2695a7aef5e0c2a892",
-                "referrer": "https:\/\/socolivev.co\/",
-                "user_agent": ""
-            }
-        ]
-    },
-    {
-        "is_live": true,
-        "date": "2025-07-14T15:30:00Z",
-        "time": "",
-        "id": "285067",
-        "logo": "",
-        "home_team": "Lahti",
-        "home_image": "https:\/\/sta.vnres.co\/file\/common\/20250711\/250a9989a4c69c021710f62439d45f01.png",
-        "away_team": "TPS Turku",
-        "away_image": "https:\/\/sta.vnres.co\/file\/common\/20250711\/5de22fed07d17df8de6733c4a98f900c.png",
-        "league": "FIN D2",
-        "links": [
-            {
-                "title": "Soco SD",
-                "url": "https:\/\/pull.niues.live\/live\/stream-991140_lsd.m3u8?auth_key=1752531184-0-0-ba04efd48fc952d15d142bb744e5bca8",
-                "referrer": "https:\/\/socolivev.co\/",
-                "user_agent": ""
-            },
-            {
-                "title": "Soco HD",
-                "url": "https:\/\/pull.niues.live\/live\/stream-991140_lhd.m3u8?auth_key=1752531184-0-0-8dba4f8bec3dd72ee306f052b596c65c",
-                "referrer": "https:\/\/socolivev.co\/",
-                "user_agent": ""
-            },
-            {
-                "title": "Soco SD",
-                "url": "https:\/\/pull.niues.live\/live\/stream-9912081_lsd.m3u8?auth_key=1752531793-0-0-cac4cc3b2a5b099b512c88c4c258e9aa",
-                "referrer": "https:\/\/socolivev.co\/",
-                "user_agent": ""
-            },
-            {
-                "title": "Soco HD",
-                "url": "https:\/\/pull.niues.live\/live\/stream-9912081_lhd.m3u8?auth_key=1752531793-0-0-d03df57bb4c393fa4a9e2a4e25b803d9",
-                "referrer": "https:\/\/socolivev.co\/",
-                "user_agent": ""
-            },
-            {
-                "title": "Soco SD",
-                "url": "https:\/\/pull.niues.live\/live\/stream-512649_lsd.m3u8?auth_key=1752532131-0-0-f35f269e8bb09740d2ba633e9750a9f6",
-                "referrer": "https:\/\/socolivev.co\/",
-                "user_agent": ""
-            },
-            {
-                "title": "Soco HD",
-                "url": "https:\/\/pull.niues.live\/live\/stream-512649_lhd.m3u8?auth_key=1752532131-0-0-0604fb26448185e3c0292be68b0e2971",
-                "referrer": "https:\/\/socolivev.co\/",
-                "user_agent": ""
-            },
-            {
-                "title": "Soco SD",
-                "url": "https:\/\/pull.niues.live\/live\/stream-285067_lsd.m3u8?auth_key=1752530379-0-0-eae22ecd7b7e1e45f24f3ac93777e915",
-                "referrer": "https:\/\/socolivev.co\/",
-                "user_agent": ""
-            },
-            {
-                "title": "Soco HD",
-                "url": "https:\/\/pull.niues.live\/live\/stream-285067_lhd.m3u8?auth_key=1752530379-0-0-5e85b678adeb96c56ad5626fe82edf76",
-                "referrer": "https:\/\/socolivev.co\/",
-                "user_agent": ""
-            }
-        ]
-    },
-    {
-        "is_live": true,
-        "date": "2025-07-14T22:00:00Z",
-        "time": "",
-        "id": "313971",
-        "logo": "",
-        "home_team": "Banfield",
-        "home_image": "https:\/\/sta.vnres.co\/file\/common\/20250712\/dab8ded25149993849a0193a79c51b15.png",
-        "away_team": "Defensa Y Justicia",
-        "away_image": "https:\/\/sta.vnres.co\/file\/common\/20250712\/b5e7368ed6558974ed2f569818fa575f.png",
-        "league": "ARG D1",
-        "links": [
-            {
-                "title": "Soco SD",
-                "url": "https:\/\/pull.niues.live\/live\/stream-9912007_lsd.m3u8?auth_key=1752539400-0-0-f3cd6931615466e0398ba8030da39745",
-                "referrer": "https:\/\/socolivev.co\/",
-                "user_agent": ""
-            },
-            {
-                "title": "Soco HD",
-                "url": "https:\/\/pull.niues.live\/live\/stream-9912007_lhd.m3u8?auth_key=1752539400-0-0-3cb8f7284860593a58a78ad0e77b937d",
-                "referrer": "https:\/\/socolivev.co\/",
-                "user_agent": ""
-            },
-            {
-                "title": "Soco SD",
-                "url": "https:\/\/pull.niues.live\/live\/stream-479849_lsd.m3u8?auth_key=1752539400-0-0-fbef356f9d9376c9da1e1d02a1bed42c",
-                "referrer": "https:\/\/socolivev.co\/",
-                "user_agent": ""
-            },
-            {
-                "title": "Soco HD",
-                "url": "https:\/\/pull.niues.live\/live\/stream-479849_lhd.m3u8?auth_key=1752539400-0-0-da993c40b6e5095d5a36128db867f92e",
-                "referrer": "https:\/\/socolivev.co\/",
-                "user_agent": ""
-            },
-            {
-                "title": "Soco SD",
-                "url": "https:\/\/pull.niues.live\/live\/stream-313971_lsd.m3u8?auth_key=1752539400-0-0-ca97e4f5abb7a8a31b959864c05e64aa",
-                "referrer": "https:\/\/socolivev.co\/",
-                "user_agent": ""
-            },
-            {
-                "title": "Soco HD",
-                "url": "https:\/\/pull.niues.live\/live\/stream-313971_lhd.m3u8?auth_key=1752539400-0-0-552b88a6af68aca59af4e911116e3526",
-                "referrer": "https:\/\/socolivev.co\/",
-                "user_agent": ""
-            }
-        ]
-    },
-    {
-        "is_live": true,
-        "date": "2025-07-14T22:00:00Z",
-        "time": "",
-        "id": "304148",
-        "logo": "",
-        "home_team": "Athletic Club MG",
-        "home_image": "https:\/\/sta.vnres.co\/file\/common\/20250712\/63c16bdb4e36bfb849e932a9cf0d23ea.png",
-        "away_team": "Ava\u00ed FC",
-        "away_image": "https:\/\/sta.vnres.co\/file\/common\/20250712\/82d8ce5b5c821f670550c65afac17968.png",
-        "league": "BRA D2",
-        "links": [
-            {
-                "title": "Soco SD",
-                "url": "https:\/\/pull.niues.live\/live\/stream-235232_lsd.m3u8?auth_key=1752539400-0-0-bf7f1a518428c91d0a164bec2379158d",
-                "referrer": "https:\/\/socolivev.co\/",
-                "user_agent": ""
-            },
-            {
-                "title": "Soco HD",
-                "url": "https:\/\/pull.niues.live\/live\/stream-235232_lhd.m3u8?auth_key=1752539400-0-0-79d8650589df92021d63affe71f8ff41",
-                "referrer": "https:\/\/socolivev.co\/",
-                "user_agent": ""
-            },
-            {
-                "title": "Soco SD",
-                "url": "https:\/\/pull.niues.live\/live\/stream-304148_lsd.m3u8?auth_key=1752539400-0-0-08eabec4e5aa0894bf91b6241f01d029",
-                "referrer": "https:\/\/socolivev.co\/",
-                "user_agent": ""
-            },
-            {
-                "title": "Soco HD",
-                "url": "https:\/\/pull.niues.live\/live\/stream-304148_lhd.m3u8?auth_key=1752539400-0-0-493c334da36532656aa6b3a3f8af2a43",
-                "referrer": "https:\/\/socolivev.co\/",
-                "user_agent": ""
-            }
-        ]
-    },
-    {
-        "is_live": true,
-        "date": "2025-07-14T22:00:00Z",
-        "time": "",
-        "id": "445260",
-        "logo": "",
-        "home_team": "Nacional Potosi",
-        "home_image": "https:\/\/sta.vnres.co\/file\/common\/20250712\/edf2d296fa7291100fbeb86863a0624e.png",
-        "away_team": "Real Oruro",
-        "away_image": "https:\/\/sta.vnres.co\/file\/common\/20250712\/91a11ec06502e1b7fdfe8f3eec60f64d.png",
-        "league": "BOL D1",
-        "links": [
-            {
-                "title": "Soco SD",
-                "url": "https:\/\/pull.niues.live\/live\/stream-503286_lsd.m3u8?auth_key=1752539400-0-0-8fee0bf2fe1c01e2bb6a15611e98223e",
-                "referrer": "https:\/\/socolivev.co\/",
-                "user_agent": ""
-            },
-            {
-                "title": "Soco HD",
-                "url": "https:\/\/pull.niues.live\/live\/stream-503286_lhd.m3u8?auth_key=1752539400-0-0-81a7a7688e1f72872d7683fa32342ffc",
-                "referrer": "https:\/\/socolivev.co\/",
-                "user_agent": ""
-            },
-            {
-                "title": "Soco SD",
-                "url": "https:\/\/pull.niur.live\/live\/stream-445260_lsd.m3u8?txSecret=755ab225aa2745b1ba2f25e12a8f47a4&txTime=6875e758",
-                "referrer": "https:\/\/socolivev.co\/",
-                "user_agent": ""
-            },
-            {
-                "title": "Soco HD",
-                "url": "https:\/\/pull.niur.live\/live\/stream-445260_lhd.m3u8?txSecret=db804df558184400b19b0e3744733629&txTime=6875e758",
-                "referrer": "https:\/\/socolivev.co\/",
-                "user_agent": ""
-            }
-        ]
-    },
-    {
-        "is_live": true,
         "date": "2025-07-14T23:00:00Z",
         "time": "",
         "id": "9912092",
@@ -437,61 +13,149 @@
         "links": [
             {
                 "title": "Soco SD",
-                "url": "https:\/\/pull.niues.live\/live\/stream-356042_lsd.m3u8?auth_key=1752539400-0-0-a54746639154e37def27740fd620de2e",
+                "url": "https:\/\/pull.niues.live\/live\/stream-356042_lsd.m3u8?auth_key=1752541200-0-0-9f4674f11ae9b6638ce637e5194db89d",
                 "referrer": "https:\/\/socolivev.co\/",
                 "user_agent": ""
             },
             {
                 "title": "Soco HD",
-                "url": "https:\/\/pull.niues.live\/live\/stream-356042_lhd.m3u8?auth_key=1752539400-0-0-b904d549f29b88606ae491a427231830",
+                "url": "https:\/\/pull.niues.live\/live\/stream-356042_lhd.m3u8?auth_key=1752541200-0-0-ffe7cfac373570d08066110ce1652d81",
                 "referrer": "https:\/\/socolivev.co\/",
                 "user_agent": ""
             },
             {
                 "title": "Soco SD",
-                "url": "https:\/\/pull.niues.live\/live\/stream-500605_lsd.m3u8?auth_key=1752539400-0-0-fe5b541ba82d75fdbf42050e6ed6b34f",
+                "url": "https:\/\/pull.niues.live\/live\/stream-500605_lsd.m3u8?auth_key=1752541200-0-0-74ab2816d8ca606773587e4a703537fc",
                 "referrer": "https:\/\/socolivev.co\/",
                 "user_agent": ""
             },
             {
                 "title": "Soco HD",
-                "url": "https:\/\/pull.niues.live\/live\/stream-500605_lhd.m3u8?auth_key=1752539400-0-0-064f4fa5abc1c25a7b924ec6842e8a0b",
+                "url": "https:\/\/pull.niues.live\/live\/stream-500605_lhd.m3u8?auth_key=1752541200-0-0-4ff7cce0581bb6e53f137e0d268cce8d",
                 "referrer": "https:\/\/socolivev.co\/",
                 "user_agent": ""
             },
             {
                 "title": "Soco SD",
-                "url": "https:\/\/pull.niues.live\/live\/stream-9912008_lsd.m3u8?auth_key=1752539400-0-0-806b3bdde96ad66d1a62843bae77c48c",
+                "url": "https:\/\/pull.niues.live\/live\/stream-9912008_lsd.m3u8?auth_key=1752541200-0-0-0ac7d778f09a6c7a3ca504ba8895803b",
                 "referrer": "https:\/\/socolivev.co\/",
                 "user_agent": ""
             },
             {
                 "title": "Soco HD",
-                "url": "https:\/\/pull.niues.live\/live\/stream-9912008_lhd.m3u8?auth_key=1752539400-0-0-de3006c53f56c7ea9f0d0112d3cfe56b",
+                "url": "https:\/\/pull.niues.live\/live\/stream-9912008_lhd.m3u8?auth_key=1752541200-0-0-4861d71f55a1280a9a296d9ce7c30f24",
                 "referrer": "https:\/\/socolivev.co\/",
                 "user_agent": ""
             },
             {
                 "title": "Soco SD",
-                "url": "https:\/\/pull.niues.live\/live\/stream-321443_lsd.m3u8?auth_key=1752539400-0-0-6021711ae64a374412d2040dc9b4d84d",
+                "url": "https:\/\/pull.niues.live\/live\/stream-321443_lsd.m3u8?auth_key=1752541200-0-0-ea686ac99fbf41ec0e1f36a81e48c326",
                 "referrer": "https:\/\/socolivev.co\/",
                 "user_agent": ""
             },
             {
                 "title": "Soco HD",
-                "url": "https:\/\/pull.niues.live\/live\/stream-321443_lhd.m3u8?auth_key=1752539400-0-0-ab1d0196bb332e9d2176d25de5b913a9",
+                "url": "https:\/\/pull.niues.live\/live\/stream-321443_lhd.m3u8?auth_key=1752541200-0-0-40ae6df8d72943ddab5d6e29a52d5c71",
                 "referrer": "https:\/\/socolivev.co\/",
                 "user_agent": ""
             },
             {
                 "title": "Soco SD",
-                "url": "https:\/\/pull.niues.live\/live\/stream-9912092_lsd.m3u8?auth_key=1752539400-0-0-72a3c8e7c4fe95301ecc89bae6543456",
+                "url": "https:\/\/pull.niues.live\/live\/stream-9912092_lsd.m3u8?auth_key=1752541200-0-0-2c1db24d32ad1506dae9a0d05b411d0a",
                 "referrer": "https:\/\/socolivev.co\/",
                 "user_agent": ""
             },
             {
                 "title": "Soco HD",
-                "url": "https:\/\/pull.niues.live\/live\/stream-9912092_lhd.m3u8?auth_key=1752539400-0-0-6995c6226c1c6df8818c93e047b9deb0",
+                "url": "https:\/\/pull.niues.live\/live\/stream-9912092_lhd.m3u8?auth_key=1752541200-0-0-fa95be75c96d2f7d39f59eda85cccf3e",
+                "referrer": "https:\/\/socolivev.co\/",
+                "user_agent": ""
+            }
+        ]
+    },
+    {
+        "is_live": true,
+        "date": "2025-07-15T00:00:00Z",
+        "time": "",
+        "id": "9912107",
+        "logo": "",
+        "home_team": "Miami Heat",
+        "home_image": "https:\/\/sta.vnres.co\/file\/common\/20250713\/fb9b2d558c3171cb53e655fb6b5dc0ef.png",
+        "away_team": "Boston Celtics",
+        "away_image": "https:\/\/sta.vnres.co\/file\/common\/20250713\/bcdf941f57e8c300a318198404bb0b57.png",
+        "league": "NBASL",
+        "links": [
+            {
+                "title": "Soco SD",
+                "url": "https:\/\/pull.niur.live\/live\/stream-9912099_lsd.m3u8?txSecret=64fcdc89e366ebb1e1fc942166643e14&txTime=6875ee60",
+                "referrer": "https:\/\/socolivev.co\/",
+                "user_agent": ""
+            },
+            {
+                "title": "Soco HD",
+                "url": "https:\/\/pull.niur.live\/live\/stream-9912099_lhd.m3u8?txSecret=e42adfd7191d304cfa61773f8f42f99f&txTime=6875ee60",
+                "referrer": "https:\/\/socolivev.co\/",
+                "user_agent": ""
+            },
+            {
+                "title": "Soco SD",
+                "url": "https:\/\/pull.niues.live\/live\/stream-9912107_lsd.m3u8?auth_key=1752541200-0-0-56afd9060a32b3fdc9891c44cae91e87",
+                "referrer": "https:\/\/socolivev.co\/",
+                "user_agent": ""
+            },
+            {
+                "title": "Soco HD",
+                "url": "https:\/\/pull.niues.live\/live\/stream-9912107_lhd.m3u8?auth_key=1752541200-0-0-f2ba9e82bc2393f0954d4c83a8350e80",
+                "referrer": "https:\/\/socolivev.co\/",
+                "user_agent": ""
+            }
+        ]
+    },
+    {
+        "is_live": true,
+        "date": "2025-07-15T00:00:00Z",
+        "time": "",
+        "id": "289098",
+        "logo": "",
+        "home_team": "Chicago Sky W",
+        "home_image": "https:\/\/sta.vnres.co\/file\/common\/20250713\/51e3b85abef834cae73d962e201c2ad4.png",
+        "away_team": "Minnesota Lynx W",
+        "away_image": "https:\/\/sta.vnres.co\/file\/common\/20250713\/840cadc39bc73cf07a41ee0651df1c92.png",
+        "league": "WNBA",
+        "links": [
+            {
+                "title": "Soco SD",
+                "url": "https:\/\/pull.niues.live\/live\/stream-166054_lsd.m3u8?auth_key=1752541200-0-0-0872fa25b91ed662860748b6c533ab5a",
+                "referrer": "https:\/\/socolivev.co\/",
+                "user_agent": ""
+            },
+            {
+                "title": "Soco HD",
+                "url": "https:\/\/pull.niues.live\/live\/stream-166054_lhd.m3u8?auth_key=1752541200-0-0-39bc17a6d126a8b004426fea523d91c5",
+                "referrer": "https:\/\/socolivev.co\/",
+                "user_agent": ""
+            },
+            {
+                "title": "Soco SD",
+                "url": "https:\/\/pull.niur.live\/live\/stream-9912106_lsd.m3u8?txSecret=c42c591da6fb5107bf52ba10003ff74e&txTime=6875ee60",
+                "referrer": "https:\/\/socolivev.co\/",
+                "user_agent": ""
+            },
+            {
+                "title": "Soco HD",
+                "url": "https:\/\/pull.niur.live\/live\/stream-9912106_lhd.m3u8?txSecret=f8cd9eb799168b3eb61472020205d13a&txTime=6875ee60",
+                "referrer": "https:\/\/socolivev.co\/",
+                "user_agent": ""
+            },
+            {
+                "title": "Soco SD",
+                "url": "https:\/\/pull.niues.live\/live\/stream-289098_lsd.m3u8?auth_key=1752541200-0-0-f7cf8e5b99acdd90124c0abf67117756",
+                "referrer": "https:\/\/socolivev.co\/",
+                "user_agent": ""
+            },
+            {
+                "title": "Soco HD",
+                "url": "https:\/\/pull.niues.live\/live\/stream-289098_lhd.m3u8?auth_key=1752541200-0-0-c4fc58e346f0ef9500636aa6d5506a1b",
                 "referrer": "https:\/\/socolivev.co\/",
                 "user_agent": ""
             }
@@ -499,35 +163,9 @@
     },
     {
         "is_live": false,
-        "date": "2025-07-15T00:00:00Z",
-        "time": "",
-        "id": "9912092",
-        "logo": "",
-        "home_team": "Miami Heat",
-        "home_image": "https:\/\/sta.vnres.co\/file\/common\/20250713\/fb9b2d558c3171cb53e655fb6b5dc0ef.png",
-        "away_team": "Boston Celtics",
-        "away_image": "https:\/\/sta.vnres.co\/file\/common\/20250713\/bcdf941f57e8c300a318198404bb0b57.png",
-        "league": "NBASL",
-        "links": []
-    },
-    {
-        "is_live": false,
-        "date": "2025-07-15T00:00:00Z",
-        "time": "",
-        "id": "9912092",
-        "logo": "",
-        "home_team": "Chicago Sky W",
-        "home_image": "https:\/\/sta.vnres.co\/file\/common\/20250713\/51e3b85abef834cae73d962e201c2ad4.png",
-        "away_team": "Minnesota Lynx W",
-        "away_image": "https:\/\/sta.vnres.co\/file\/common\/20250713\/840cadc39bc73cf07a41ee0651df1c92.png",
-        "league": "WNBA",
-        "links": []
-    },
-    {
-        "is_live": false,
         "date": "2025-07-15T00:15:00Z",
         "time": "",
-        "id": "9912092",
+        "id": "289098",
         "logo": "",
         "home_team": "Club Atl\u00e9tico Uni\u00f3n",
         "home_image": "https:\/\/sta.vnres.co\/file\/common\/20250712\/e6e0348033a97eab1792f5a0859939b1.png",
@@ -540,7 +178,7 @@
         "is_live": false,
         "date": "2025-07-15T00:15:00Z",
         "time": "",
-        "id": "9912092",
+        "id": "289098",
         "logo": "",
         "home_team": "Velez Sarsfield",
         "home_image": "https:\/\/sta.vnres.co\/file\/common\/20250712\/8b7a471637ad762c4117ac4c695d2808.png",
@@ -553,7 +191,7 @@
         "is_live": false,
         "date": "2025-07-15T00:30:00Z",
         "time": "",
-        "id": "9912092",
+        "id": "289098",
         "logo": "",
         "home_team": "Botafogo SP",
         "home_image": "https:\/\/sta.vnres.co\/file\/common\/20250712\/a1c93c2f3151b58c324c6afc1d3f7803.png",
@@ -566,7 +204,7 @@
         "is_live": false,
         "date": "2025-07-15T00:30:00Z",
         "time": "",
-        "id": "9912092",
+        "id": "289098",
         "logo": "",
         "home_team": "San Antonio Spurs",
         "home_image": "https:\/\/sta.vnres.co\/file\/common\/20250713\/00432d71639e0a288f9c9e0921a6c7d0.png",
@@ -579,7 +217,7 @@
         "is_live": false,
         "date": "2025-07-15T01:05:00Z",
         "time": "",
-        "id": "9912092",
+        "id": "289098",
         "logo": "",
         "home_team": "Real Cartagena",
         "home_image": "https:\/\/sta.vnres.co\/file\/common\/20250712\/6dec9348968e81aede5ebb67f48cfe05.png",
@@ -592,7 +230,7 @@
         "is_live": false,
         "date": "2025-07-15T02:00:00Z",
         "time": "",
-        "id": "9912092",
+        "id": "289098",
         "logo": "",
         "home_team": "Sacramento Kings",
         "home_image": "https:\/\/sta.vnres.co\/file\/common\/20250713\/ef2747d7df7611351619478326e3c29e.png",
@@ -605,7 +243,7 @@
         "is_live": false,
         "date": "2025-07-15T02:00:00Z",
         "time": "",
-        "id": "9912092",
+        "id": "289098",
         "logo": "",
         "home_team": "Golden State Valkyries W",
         "home_image": "https:\/\/sta.vnres.co\/file\/common\/20250713\/61464eb02e05cdf6aeec1c66ad9f7d58.png",
@@ -618,7 +256,7 @@
         "is_live": false,
         "date": "2025-07-15T02:30:00Z",
         "time": "",
-        "id": "9912092",
+        "id": "289098",
         "logo": "",
         "home_team": "Los Angeles Lakers",
         "home_image": "https:\/\/sta.vnres.co\/file\/common\/20250713\/1f9ce3c83a8137c98351638fe70f26c0.png",
@@ -631,7 +269,7 @@
         "is_live": false,
         "date": "2025-07-15T05:15:00Z",
         "time": "",
-        "id": "9912092",
+        "id": "289098",
         "logo": "",
         "home_team": "Hunters FC",
         "home_image": "https:\/\/sta.vnres.co\/file\/common\/20250712\/917af2750381667db023b01533ecd0f9.png",
@@ -644,7 +282,7 @@
         "is_live": false,
         "date": "2025-07-15T05:30:00Z",
         "time": "",
-        "id": "9912092",
+        "id": "289098",
         "logo": "",
         "home_team": "Indonesia W",
         "home_image": "https:\/\/sta.vnres.co\/file\/common\/20250713\/d74c0aeae65cf530cf83750f0f84084b.png",
@@ -657,7 +295,7 @@
         "is_live": false,
         "date": "2025-07-15T07:00:00Z",
         "time": "",
-        "id": "9912092",
+        "id": "289098",
         "logo": "",
         "home_team": "China",
         "home_image": "https:\/\/sta.vnres.co\/file\/common\/20250712\/68d97302d51705c42035d6fa61954b01.png",
@@ -670,7 +308,7 @@
         "is_live": false,
         "date": "2025-07-15T07:00:00Z",
         "time": "",
-        "id": "9912092",
+        "id": "289098",
         "logo": "",
         "home_team": "Sweden U20",
         "home_image": "https:\/\/sta.vnres.co\/file\/common\/20250713\/8efa22f2f457845386b214e3c7788aa7.jpeg",
@@ -683,7 +321,7 @@
         "is_live": false,
         "date": "2025-07-15T08:00:00Z",
         "time": "",
-        "id": "9912092",
+        "id": "289098",
         "logo": "",
         "home_team": "Sarangani Marlins",
         "home_image": "https:\/\/sta.vnres.co\/file\/common\/20250713\/ad1c4ddb4fce7cee00685f0a07a79651.png",
@@ -696,7 +334,7 @@
         "is_live": false,
         "date": "2025-07-15T08:15:00Z",
         "time": "",
-        "id": "9912092",
+        "id": "289098",
         "logo": "",
         "home_team": "Brera Ilch FC",
         "home_image": "https:\/\/sta.vnres.co\/file\/common\/20250712\/a004a71e782283f906710ce5c07b28d8.png",
@@ -709,7 +347,7 @@
         "is_live": false,
         "date": "2025-07-15T08:30:00Z",
         "time": "",
-        "id": "9912092",
+        "id": "289098",
         "logo": "",
         "home_team": "Brisbane City (w)",
         "home_image": "https:\/\/sta.vnres.co\/file\/common\/20250714\/919424997253758c588972e8173277b0.png",
@@ -722,7 +360,7 @@
         "is_live": false,
         "date": "2025-07-15T08:30:00Z",
         "time": "",
-        "id": "9912092",
+        "id": "289098",
         "logo": "",
         "home_team": "Japan W",
         "home_image": "https:\/\/sta.vnres.co\/file\/common\/20250714\/05acc834e660cc3f14dceaff7270e2a4.png",
@@ -735,7 +373,7 @@
         "is_live": false,
         "date": "2025-07-15T09:30:00Z",
         "time": "",
-        "id": "9912092",
+        "id": "289098",
         "logo": "",
         "home_team": "BSS Sporting Club",
         "home_image": "https:\/\/sta.vnres.co\/file\/common\/20250712\/89233434e9a97ba270b3c541b5839af0.jpg",
@@ -748,7 +386,7 @@
         "is_live": false,
         "date": "2025-07-15T09:30:00Z",
         "time": "",
-        "id": "9912092",
+        "id": "289098",
         "logo": "",
         "home_team": "George Telegraph FC",
         "home_image": "https:\/\/sta.vnres.co\/file\/common\/20250712\/601a4fb69bd987f085e47c96c07d6875.png",
@@ -761,7 +399,7 @@
         "is_live": false,
         "date": "2025-07-15T09:30:00Z",
         "time": "",
-        "id": "9912092",
+        "id": "289098",
         "logo": "",
         "home_team": "Patha Chakra",
         "home_image": "https:\/\/sta.vnres.co\/file\/common\/20250712\/295480e4c8fddf247d544c271fafc6d7.png",
@@ -774,7 +412,7 @@
         "is_live": false,
         "date": "2025-07-15T09:30:00Z",
         "time": "",
-        "id": "9912092",
+        "id": "289098",
         "logo": "",
         "home_team": "Sydney FC",
         "home_image": "https:\/\/sta.vnres.co\/file\/common\/20250712\/e449caa2570cf74c59fecdcbe768d77f.png",
@@ -787,7 +425,7 @@
         "is_live": false,
         "date": "2025-07-15T09:30:00Z",
         "time": "",
-        "id": "9912092",
+        "id": "289098",
         "logo": "",
         "home_team": "Eastern Suburbs SC (w)",
         "home_image": "https:\/\/sta.vnres.co\/file\/common\/20250714\/f6a9b3c55f77ca1f5ce6366d1b0bd154.png",
@@ -800,7 +438,7 @@
         "is_live": false,
         "date": "2025-07-15T09:30:00Z",
         "time": "",
-        "id": "9912092",
+        "id": "289098",
         "logo": "",
         "home_team": "Ireland U20",
         "home_image": "https:\/\/sta.vnres.co\/file\/common\/20250713\/27b1d989501008b7177270b473ef793b.png",
@@ -813,7 +451,7 @@
         "is_live": false,
         "date": "2025-07-15T10:00:00Z",
         "time": "",
-        "id": "9912092",
+        "id": "289098",
         "logo": "",
         "home_team": "Malaysia U23",
         "home_image": "https:\/\/sta.vnres.co\/file\/common\/20250712\/f69390b517f08436eec09531f39e8041.png",
@@ -826,7 +464,7 @@
         "is_live": false,
         "date": "2025-07-15T10:00:00Z",
         "time": "",
-        "id": "9912092",
+        "id": "289098",
         "logo": "",
         "home_team": "Ringwood",
         "home_image": "https:\/\/sta.vnres.co\/file\/common\/20250713\/b89cf2e5c302a8301ead43095cbd86aa.png",
@@ -839,7 +477,7 @@
         "is_live": false,
         "date": "2025-07-15T10:24:00Z",
         "time": "",
-        "id": "9912092",
+        "id": "289098",
         "logo": "",
         "home_team": "South Korea",
         "home_image": "https:\/\/sta.vnres.co\/file\/common\/20250712\/09a609ed4314b71eb837787fc11190c3.png",
@@ -852,7 +490,7 @@
         "is_live": false,
         "date": "2025-07-15T11:15:00Z",
         "time": "",
-        "id": "9912092",
+        "id": "289098",
         "logo": "",
         "home_team": "FC Ulaanbaatar",
         "home_image": "https:\/\/sta.vnres.co\/file\/common\/20250712\/4ab15d4554e82bc4db7e5cb616c47849.png",
@@ -865,7 +503,7 @@
         "is_live": false,
         "date": "2025-07-15T13:00:00Z",
         "time": "",
-        "id": "9912092",
+        "id": "289098",
         "logo": "",
         "home_team": "Indonesia U23",
         "home_image": "https:\/\/sta.vnres.co\/file\/common\/20250712\/de654ec8c6ccde38b5ebfd75636bad8d.png",
@@ -878,7 +516,7 @@
         "is_live": false,
         "date": "2025-07-15T15:00:00Z",
         "time": "",
-        "id": "9912092",
+        "id": "289098",
         "logo": "",
         "home_team": "FC Kairat Almaty",
         "home_image": "https:\/\/sta.vnres.co\/file\/common\/20250712\/cd46f10a8fa4c2b8700d29c7abe5a519.png",
@@ -891,13 +529,663 @@
         "is_live": false,
         "date": "2025-07-15T15:30:00Z",
         "time": "",
-        "id": "9912092",
+        "id": "289098",
         "logo": "",
         "home_team": "Lincoln Red Imps FC",
         "home_image": "https:\/\/sta.vnres.co\/file\/common\/20250712\/50d1155588ce917e58154af6aa24217f.png",
         "away_team": "V\u00edkingur G\u00f8ta",
         "away_image": "https:\/\/sta.vnres.co\/file\/common\/20250712\/a00fe8d1ab4c5e400b9596d19f534588.png",
         "league": "UEFA CL",
+        "links": []
+    },
+    {
+        "is_live": false,
+        "date": "2025-07-15T17:00:00Z",
+        "time": "",
+        "id": null,
+        "logo": "",
+        "home_team": "Malmo FF",
+        "home_image": "https:\/\/sta.vnres.co\/file\/common\/20250713\/d519986ac04e1613ff2caf8b04393839.png",
+        "away_team": "FC Iberia 1999 Tbilisi",
+        "away_image": "https:\/\/sta.vnres.co\/file\/common\/20250713\/160558a76fc7fa9a449d0827ac983587.png",
+        "league": "UEFA CL",
+        "links": []
+    },
+    {
+        "is_live": false,
+        "date": "2025-07-15T17:00:00Z",
+        "time": "",
+        "id": null,
+        "logo": "",
+        "home_team": "FC Milsami",
+        "home_image": "https:\/\/sta.vnres.co\/file\/common\/20250713\/06cb385b9f2a2ade3548701685c8c983.png",
+        "away_team": "KuPs",
+        "away_image": "https:\/\/sta.vnres.co\/file\/common\/20250713\/125c2c7262b29088b249309593a8d961.png",
+        "league": "UEFA CL",
+        "links": []
+    },
+    {
+        "is_live": false,
+        "date": "2025-07-15T17:00:00Z",
+        "time": "",
+        "id": null,
+        "logo": "",
+        "home_team": "Rigas Futbola Skola",
+        "home_image": "https:\/\/sta.vnres.co\/file\/common\/20250713\/f019403e48c497bec6732abd9175a40b.png",
+        "away_team": "Levadia Tallinn",
+        "away_image": "https:\/\/sta.vnres.co\/file\/common\/20250713\/dfd9d4fd8666a9a789375a59be0d1f37.png",
+        "league": "UEFA CL",
+        "links": []
+    },
+    {
+        "is_live": false,
+        "date": "2025-07-15T17:00:00Z",
+        "time": "",
+        "id": null,
+        "logo": "",
+        "home_team": "Hamrun Spartans",
+        "home_image": "https:\/\/sta.vnres.co\/file\/common\/20250713\/960ec31118280acae647d9f0f744e19a.png",
+        "away_team": "FK Zalgiris Vilnius",
+        "away_image": "https:\/\/sta.vnres.co\/file\/common\/20250713\/c201b2c68d47b95597c1738ab37ae348.png",
+        "league": "UEFA CL",
+        "links": []
+    },
+    {
+        "is_live": false,
+        "date": "2025-07-15T18:00:00Z",
+        "time": "",
+        "id": null,
+        "logo": "",
+        "home_team": "FC Differdange 03",
+        "home_image": "https:\/\/sta.vnres.co\/file\/common\/20250713\/83d75e9ab24e3f1e4d57fed2b2ac6526.png",
+        "away_team": "FC Drita",
+        "away_image": "https:\/\/sta.vnres.co\/file\/common\/20250713\/6a314b6c2436045c059827b3e5e9e449.png",
+        "league": "UEFA CL",
+        "links": []
+    },
+    {
+        "is_live": false,
+        "date": "2025-07-15T18:00:00Z",
+        "time": "",
+        "id": null,
+        "logo": "",
+        "home_team": "Shkendija Tetovo",
+        "home_image": "https:\/\/sta.vnres.co\/file\/common\/20250713\/daad3f4ecc20484e2986c938ab1039cb.png",
+        "away_team": "The New Saints",
+        "away_image": "https:\/\/sta.vnres.co\/file\/common\/20250713\/d0d45f13d7d32260c04f08330a0aa5f0.png",
+        "league": "UEFA CL",
+        "links": []
+    },
+    {
+        "is_live": false,
+        "date": "2025-07-15T18:30:00Z",
+        "time": "",
+        "id": null,
+        "logo": "",
+        "home_team": "Inter Club Escaldes",
+        "home_image": "https:\/\/sta.vnres.co\/file\/common\/20250713\/47d3d7d8f4c70b60d732a076026970fa.png",
+        "away_team": "FCSB",
+        "away_image": "https:\/\/sta.vnres.co\/file\/common\/20250713\/82a19b74d6a93299717e887b05a90143.png",
+        "league": "UEFA CL",
+        "links": []
+    },
+    {
+        "is_live": false,
+        "date": "2025-07-15T19:00:00Z",
+        "time": "",
+        "id": null,
+        "logo": "",
+        "home_team": "Breidablik",
+        "home_image": "https:\/\/sta.vnres.co\/file\/common\/20250713\/4edee40388e7e0cd49e953cdf59251a2.png",
+        "away_team": "Egnatia",
+        "away_image": "https:\/\/sta.vnres.co\/file\/common\/20250713\/eecd3b63a4bc30e12fb2fb3c64442bcc.png",
+        "league": "UEFA CL",
+        "links": []
+    },
+    {
+        "is_live": false,
+        "date": "2025-07-15T19:00:00Z",
+        "time": "",
+        "id": null,
+        "logo": "",
+        "home_team": "FK Buducnost Podgorica",
+        "home_image": "https:\/\/sta.vnres.co\/file\/common\/20250713\/171fdb88cfe8eb52c0bca600aba68ca9.png",
+        "away_team": "FC Noah",
+        "away_image": "https:\/\/sta.vnres.co\/file\/common\/20250713\/425b9655f1de673b092bf60a3838b460.png",
+        "league": "UEFA CL",
+        "links": []
+    },
+    {
+        "is_live": false,
+        "date": "2025-07-15T19:00:00Z",
+        "time": "",
+        "id": null,
+        "logo": "",
+        "home_team": "HSK Zrinjski Mostar",
+        "home_image": "https:\/\/sta.vnres.co\/file\/common\/20250713\/51d591416091c7eedec10c22326db50f.png",
+        "away_team": "SS Virtus",
+        "away_image": "https:\/\/sta.vnres.co\/file\/common\/20250713\/5bb08bb39b833b73a1247776fe0cca7e.png",
+        "league": "UEFA CL",
+        "links": []
+    },
+    {
+        "is_live": false,
+        "date": "2025-07-15T21:00:00Z",
+        "time": "",
+        "id": null,
+        "logo": "",
+        "home_team": "Uruguay (w)",
+        "home_image": "https:\/\/sta.vnres.co\/file\/common\/20250713\/84abcab756dfb6a7a6238011d9d03490.png",
+        "away_team": "Argentina (w)",
+        "away_image": "https:\/\/sta.vnres.co\/file\/common\/20250713\/963e2019e402847a6c241035682e1ece.png",
+        "league": "CON SMW",
+        "links": []
+    },
+    {
+        "is_live": false,
+        "date": "2025-07-15T22:00:00Z",
+        "time": "",
+        "id": null,
+        "logo": "",
+        "home_team": "Central Cordoba SDE",
+        "home_image": "https:\/\/sta.vnres.co\/file\/common\/20250713\/08860a0b7c814d466b4572d3b253aa10.png",
+        "away_team": "Cerro Largo",
+        "away_image": "https:\/\/sta.vnres.co\/file\/common\/20250713\/0a748c9eb870db172a5f82345cffaef7.png",
+        "league": "CON CSA",
+        "links": []
+    },
+    {
+        "is_live": false,
+        "date": "2025-07-15T22:30:00Z",
+        "time": "",
+        "id": null,
+        "logo": "",
+        "home_team": "Cuiaba",
+        "home_image": "https:\/\/sta.vnres.co\/file\/common\/20250713\/4dc6580bc82d6f513ae0dfdc79f95429.png",
+        "away_team": "Amazonas FC",
+        "away_image": "https:\/\/sta.vnres.co\/file\/common\/20250713\/2d8d47a77feeb5ca8fbe63d7e093dacd.png",
+        "league": "BRA D2",
+        "links": []
+    },
+    {
+        "is_live": false,
+        "date": "2025-07-15T22:30:00Z",
+        "time": "",
+        "id": null,
+        "logo": "",
+        "home_team": "Orlando Magic",
+        "home_image": "https:\/\/sta.vnres.co\/file\/common\/20250714\/91b6b4f514d0c8fdfef5abbabdb4bad0.png",
+        "away_team": "Oklahoma City Thunder",
+        "away_image": "https:\/\/sta.vnres.co\/file\/common\/20250714\/ccb2e13086631c9c39db6d08e8392252.png",
+        "league": "NBASL",
+        "links": []
+    },
+    {
+        "is_live": false,
+        "date": "2025-07-15T23:00:00Z",
+        "time": "",
+        "id": null,
+        "logo": "",
+        "home_team": "Orsomarso",
+        "home_image": "https:\/\/sta.vnres.co\/file\/common\/20250713\/705240552e07e28c22592a38101f6d89.png",
+        "away_team": "Bogota FC",
+        "away_image": "https:\/\/sta.vnres.co\/file\/common\/20250713\/5793374a1e568d568d0edea1bcee3d91.png",
+        "league": "COL D2",
+        "links": []
+    },
+    {
+        "is_live": false,
+        "date": "2025-07-15T23:00:00Z",
+        "time": "",
+        "id": null,
+        "logo": "",
+        "home_team": "Independiente Petrolero",
+        "home_image": "https:\/\/sta.vnres.co\/file\/common\/20250713\/b185af4301ce04933b9813b19a61b43c.png",
+        "away_team": "Universitario De Vinto",
+        "away_image": "https:\/\/sta.vnres.co\/file\/common\/20250713\/6f1c5cadc0572c8840c89c8a95f227db.png",
+        "league": "BOL LFPB",
+        "links": []
+    },
+    {
+        "is_live": false,
+        "date": "2025-07-16T00:00:00Z",
+        "time": "",
+        "id": null,
+        "logo": "",
+        "home_team": "Peru (w)",
+        "home_image": "https:\/\/sta.vnres.co\/file\/common\/20250714\/f8b74352f249b777a480d2fa09f47133.png",
+        "away_team": "Ecuador (w)",
+        "away_image": "https:\/\/sta.vnres.co\/file\/common\/20250713\/cb6be6d899013f44b043b553fca4c514.png",
+        "league": "CON SMW",
+        "links": []
+    },
+    {
+        "is_live": false,
+        "date": "2025-07-16T00:00:00Z",
+        "time": "",
+        "id": null,
+        "logo": "",
+        "home_team": "Denver Nuggets",
+        "home_image": "https:\/\/sta.vnres.co\/file\/common\/20250714\/2ed681512847a213f0b13c961da828ce.png",
+        "away_team": "Toronto Raptors",
+        "away_image": "https:\/\/sta.vnres.co\/file\/common\/20250714\/50dc010733ed24c15cf184b19ede4831.png",
+        "league": "NBASL",
+        "links": []
+    },
+    {
+        "is_live": false,
+        "date": "2025-07-16T00:00:00Z",
+        "time": "",
+        "id": null,
+        "logo": "",
+        "home_team": "Connecticut Sun W",
+        "home_image": "https:\/\/sta.vnres.co\/file\/common\/20250714\/55dfcdda2c272dd63c90161a5828e460.png",
+        "away_team": "Indiana Fever W",
+        "away_image": "https:\/\/sta.vnres.co\/file\/common\/20250714\/09f0750fff02a6db42d57c4d7c322802.png",
+        "league": "WNBA",
+        "links": []
+    },
+    {
+        "is_live": false,
+        "date": "2025-07-16T00:30:00Z",
+        "time": "",
+        "id": null,
+        "logo": "",
+        "home_team": "Bahia",
+        "home_image": "https:\/\/sta.vnres.co\/file\/common\/20250713\/a292d031e03d323f574637af6afb97e5.png",
+        "away_team": "America de Cali",
+        "away_image": "https:\/\/sta.vnres.co\/file\/common\/20250713\/d1230071b3f195d33a15a6150d77e2f9.png",
+        "league": "CON CSA",
+        "links": []
+    },
+    {
+        "is_live": false,
+        "date": "2025-07-16T00:30:00Z",
+        "time": "",
+        "id": null,
+        "logo": "",
+        "home_team": "Independiente del Valle",
+        "home_image": "https:\/\/sta.vnres.co\/file\/common\/20250713\/b1cf445b28c526c95e7e210a769e5af0.png",
+        "away_team": "Clube de Regatas Vasco da Gama",
+        "away_image": "https:\/\/sta.vnres.co\/file\/common\/20250713\/4dd896082761b79d095a3c0803f0f40d.png",
+        "league": "CON CSA",
+        "links": []
+    },
+    {
+        "is_live": false,
+        "date": "2025-07-16T01:05:00Z",
+        "time": "",
+        "id": null,
+        "logo": "",
+        "home_team": "Real Soacha Cundinamarca",
+        "home_image": "https:\/\/sta.vnres.co\/file\/common\/20250713\/97ea251ce24429436896b821935a3460.png",
+        "away_team": "Jaguares de Cordoba",
+        "away_image": "https:\/\/sta.vnres.co\/file\/common\/20250713\/d465bdb5785e9f8a7b80078462cc0c2b.png",
+        "league": "COL D2",
+        "links": []
+    },
+    {
+        "is_live": false,
+        "date": "2025-07-16T02:00:00Z",
+        "time": "",
+        "id": null,
+        "logo": "",
+        "home_team": "New Orleans Pelicans",
+        "home_image": "https:\/\/sta.vnres.co\/file\/common\/20250714\/6e826c4742f50272fa36f7e3cc3c55ad.png",
+        "away_team": "Portland Trail Blazers",
+        "away_image": "https:\/\/sta.vnres.co\/file\/common\/20250714\/4e61b126bb1ddc028f82d75fd49fd976.png",
+        "league": "NBASL",
+        "links": []
+    },
+    {
+        "is_live": false,
+        "date": "2025-07-16T02:00:00Z",
+        "time": "",
+        "id": null,
+        "logo": "",
+        "home_team": "Los Angeles Sparks W",
+        "home_image": "https:\/\/sta.vnres.co\/file\/common\/20250714\/0318775c2d057bb6f9d3174024decb91.png",
+        "away_team": "Washington Mystics W",
+        "away_image": "https:\/\/sta.vnres.co\/file\/common\/20250714\/ac263c8de20c97a328bbb4708b0769ac.png",
+        "league": "WNBA",
+        "links": []
+    },
+    {
+        "is_live": false,
+        "date": "2025-07-16T02:30:00Z",
+        "time": "",
+        "id": null,
+        "logo": "",
+        "home_team": "Memphis Grizzlies",
+        "home_image": "https:\/\/sta.vnres.co\/file\/common\/20250714\/f9ad2f8efccb6a4ce42d96ad2ee45537.png",
+        "away_team": "Golden State Warriors",
+        "away_image": "https:\/\/sta.vnres.co\/file\/common\/20250714\/3fe1e69557c294ef1a1404559c45ee27.png",
+        "league": "NBASL",
+        "links": []
+    },
+    {
+        "is_live": false,
+        "date": "2025-07-16T05:30:00Z",
+        "time": "",
+        "id": null,
+        "logo": "",
+        "home_team": "Philippines W",
+        "home_image": "https:\/\/sta.vnres.co\/file\/common\/20250714\/2af3d8be5fd962964752941ff4a55709.png",
+        "away_team": "Lebanon W",
+        "away_image": "https:\/\/sta.vnres.co\/file\/common\/20250714\/22f6c334cf2cf05ac6872a3309ab04b3.png",
+        "league": "ACW",
+        "links": []
+    },
+    {
+        "is_live": false,
+        "date": "2025-07-16T07:00:00Z",
+        "time": "",
+        "id": null,
+        "logo": "",
+        "home_team": "Japan Women",
+        "home_image": "https:\/\/sta.vnres.co\/file\/common\/20250713\/168529aafc0b16bed82368f75885dea7.png",
+        "away_team": "China Women",
+        "away_image": "https:\/\/sta.vnres.co\/file\/common\/20250713\/bf02311403c73f52982fbd28bc128085.png",
+        "league": "WEAFF",
+        "links": []
+    },
+    {
+        "is_live": false,
+        "date": "2025-07-16T07:00:00Z",
+        "time": "",
+        "id": null,
+        "logo": "",
+        "home_team": "Montenegro U20",
+        "home_image": "https:\/\/sta.vnres.co\/file\/common\/20250714\/8da4e8704b735ab4ea0341c1c32d0025.jpeg",
+        "away_team": "Ireland U20",
+        "away_image": "https:\/\/sta.vnres.co\/file\/common\/20250714\/0f750cae6c46881c3241c8080f555ea0.png",
+        "league": "ECMU20B",
+        "links": []
+    },
+    {
+        "is_live": false,
+        "date": "2025-07-16T08:00:00Z",
+        "time": "",
+        "id": null,
+        "logo": "",
+        "home_team": "Marikina Verdiamonds",
+        "home_image": "https:\/\/sta.vnres.co\/file\/common\/20250714\/3bfeecfe0e324be2e7e25e8b52ebdc38.png",
+        "away_team": "GenSan Warriors",
+        "away_image": "https:\/\/sta.vnres.co\/file\/common\/20250714\/20bd14c850d9b606d4b8524c8c9cb00a.png",
+        "league": "MPBL",
+        "links": []
+    },
+    {
+        "is_live": false,
+        "date": "2025-07-16T08:15:00Z",
+        "time": "",
+        "id": null,
+        "logo": "",
+        "home_team": "Khangarid FC",
+        "home_image": "https:\/\/sta.vnres.co\/file\/common\/20250713\/287ab470bee52c806cf2bc1b79088c0d.png",
+        "away_team": "Khaan Khuns-Erchim FC",
+        "away_image": "https:\/\/sta.vnres.co\/file\/common\/20250713\/5c91ba20f44c32d95c798478ced2c026.png",
+        "league": "MGL D1",
+        "links": []
+    },
+    {
+        "is_live": false,
+        "date": "2025-07-16T08:30:00Z",
+        "time": "",
+        "id": null,
+        "logo": "",
+        "home_team": "South Korea W",
+        "home_image": "https:\/\/sta.vnres.co\/file\/common\/20250714\/2adaf9109a508ac1f16f822100a45339.png",
+        "away_team": "Indonesia W",
+        "away_image": "https:\/\/sta.vnres.co\/file\/common\/20250714\/d21e0711dad063a95c27aafb284e4f89.png",
+        "league": "ACW",
+        "links": []
+    },
+    {
+        "is_live": false,
+        "date": "2025-07-16T09:30:00Z",
+        "time": "",
+        "id": null,
+        "logo": "",
+        "home_team": "Cerezo Osaka",
+        "home_image": "https:\/\/sta.vnres.co\/file\/common\/20250713\/7863d7dc091b9e641ab49a638306ed12.png",
+        "away_team": "Tokushima Vortis",
+        "away_image": "https:\/\/sta.vnres.co\/file\/common\/20250713\/1eccd9eeb93ba94cdfeda9b8688ed93e.png",
+        "league": "JE Cup",
+        "links": []
+    },
+    {
+        "is_live": false,
+        "date": "2025-07-16T10:00:00Z",
+        "time": "",
+        "id": null,
+        "logo": "",
+        "home_team": "Avispa Fukuoka",
+        "home_image": "https:\/\/sta.vnres.co\/file\/common\/20250713\/50d6d3c52f841a15a9a50722a65527b9.png",
+        "away_team": "Giravanz Kitakyushu",
+        "away_image": "https:\/\/sta.vnres.co\/file\/common\/20250713\/17203ebd8c4503b8a51160bbabe6da11.png",
+        "league": "JE Cup",
+        "links": []
+    },
+    {
+        "is_live": false,
+        "date": "2025-07-16T10:00:00Z",
+        "time": "",
+        "id": null,
+        "logo": "",
+        "home_team": "Kashima Antlers",
+        "home_image": "https:\/\/sta.vnres.co\/file\/common\/20250713\/d791a5df3082909be137412f949f6d91.png",
+        "away_team": "V-Varen Nagasaki",
+        "away_image": "https:\/\/sta.vnres.co\/file\/common\/20250713\/54fcf7da8fbddd7274b3bc0516881f00.png",
+        "league": "JE Cup",
+        "links": []
+    },
+    {
+        "is_live": false,
+        "date": "2025-07-16T10:00:00Z",
+        "time": "",
+        "id": null,
+        "logo": "",
+        "home_team": "Kawasaki Frontale",
+        "home_image": "https:\/\/sta.vnres.co\/file\/common\/20250713\/5430af46a8b9072da7d34a9907b052a8.png",
+        "away_team": "SC Sagamihara",
+        "away_image": "https:\/\/sta.vnres.co\/file\/common\/20250713\/d9e8108ed60b502015013f5dc33fc47b.png",
+        "league": "JE Cup",
+        "links": []
+    },
+    {
+        "is_live": false,
+        "date": "2025-07-16T10:00:00Z",
+        "time": "",
+        "id": null,
+        "logo": "",
+        "home_team": "Machida Zelvia",
+        "home_image": "https:\/\/sta.vnres.co\/file\/common\/20250713\/fe51fcfb8279fa1ddf364be397e8afad.png",
+        "away_team": "Kataller Toyama",
+        "away_image": "https:\/\/sta.vnres.co\/file\/common\/20250713\/cace09a3eaa7e84f2af4a27473b0b539.png",
+        "league": "JE Cup",
+        "links": []
+    },
+    {
+        "is_live": false,
+        "date": "2025-07-16T10:00:00Z",
+        "time": "",
+        "id": null,
+        "logo": "",
+        "home_team": "Nagoya Grampus",
+        "home_image": "https:\/\/sta.vnres.co\/file\/common\/20250713\/6098833c6cd1de30b3c8dfb01ee82d73.png",
+        "away_team": "Roasso Kumamoto",
+        "away_image": "https:\/\/sta.vnres.co\/file\/common\/20250713\/d3cb5b367614aa514f44b52d5abc55df.png",
+        "league": "JE Cup",
+        "links": []
+    },
+    {
+        "is_live": false,
+        "date": "2025-07-16T10:00:00Z",
+        "time": "",
+        "id": null,
+        "logo": "",
+        "home_team": "Sanfrecce Hiroshima",
+        "home_image": "https:\/\/sta.vnres.co\/file\/common\/20250713\/ab8633bb511e639c067bf6c072c7b0b0.png",
+        "away_team": "Fujieda MYFC",
+        "away_image": "https:\/\/sta.vnres.co\/file\/common\/20250713\/fc550c719862d0b2d7fc62929c372a7d.png",
+        "league": "JE Cup",
+        "links": []
+    },
+    {
+        "is_live": false,
+        "date": "2025-07-16T10:00:00Z",
+        "time": "",
+        "id": null,
+        "logo": "",
+        "home_team": "Shonan Bellmare",
+        "home_image": "https:\/\/sta.vnres.co\/file\/common\/20250713\/788de7a492cbd911c8e64f31d9cad7ab.png",
+        "away_team": "Shimizu S-Pulse",
+        "away_image": "https:\/\/sta.vnres.co\/file\/common\/20250713\/7971823996164927e87e574ae073e87b.png",
+        "league": "JE Cup",
+        "links": []
+    },
+    {
+        "is_live": false,
+        "date": "2025-07-16T10:00:00Z",
+        "time": "",
+        "id": null,
+        "logo": "",
+        "home_team": "Vissel Kobe",
+        "home_image": "https:\/\/sta.vnres.co\/file\/common\/20250713\/d8e5a82bde0e75e6f99be1c3180f40e1.png",
+        "away_team": "Ventforet Kofu",
+        "away_image": "https:\/\/sta.vnres.co\/file\/common\/20250713\/b6352eedcd0854e8e78ec4278304f918.png",
+        "league": "JE Cup",
+        "links": []
+    },
+    {
+        "is_live": false,
+        "date": "2025-07-16T10:00:00Z",
+        "time": "",
+        "id": null,
+        "logo": "",
+        "home_team": "FC Tokyo",
+        "home_image": "https:\/\/sta.vnres.co\/file\/common\/20250713\/9b11dfe30a05d88c0d920a17d60a1dff.png",
+        "away_team": "Oita Trinita",
+        "away_image": "https:\/\/sta.vnres.co\/file\/common\/20250713\/474fbd6031fc2b5bca7d23e5e745e312.png",
+        "league": "JE Cup",
+        "links": []
+    },
+    {
+        "is_live": false,
+        "date": "2025-07-16T10:00:00Z",
+        "time": "",
+        "id": null,
+        "logo": "",
+        "home_team": "Gamba Osaka",
+        "home_image": "https:\/\/sta.vnres.co\/file\/common\/20250713\/2b3ddaaa1a05854428065f60d3a395fe.png",
+        "away_team": "Montedio Yamagata",
+        "away_image": "https:\/\/sta.vnres.co\/file\/common\/20250713\/3ffa8627f01980e310321757140a14bc.png",
+        "league": "JE Cup",
+        "links": []
+    },
+    {
+        "is_live": false,
+        "date": "2025-07-16T10:00:00Z",
+        "time": "",
+        "id": null,
+        "logo": "",
+        "home_team": "Cambodia U23",
+        "home_image": "https:\/\/sta.vnres.co\/file\/common\/20250713\/d9802c4d6f4e9dbb10fd2f5abe44a34c.png",
+        "away_team": "Laos U23",
+        "away_image": "https:\/\/sta.vnres.co\/file\/common\/20250713\/c6c268a6c35abe06bc187415b79634f1.png",
+        "league": "AFF U23",
+        "links": []
+    },
+    {
+        "is_live": false,
+        "date": "2025-07-16T10:30:00Z",
+        "time": "",
+        "id": null,
+        "logo": "",
+        "home_team": "South Korea Women",
+        "home_image": "https:\/\/sta.vnres.co\/file\/common\/20250713\/2eb1fea4613d09b1861eb8095c9ae84b.png",
+        "away_team": "Chinese Taipei Women",
+        "away_image": "https:\/\/sta.vnres.co\/file\/common\/20250713\/e560cce8f843e8cf60cbfa93606a4485.png",
+        "league": "WEAFF",
+        "links": []
+    },
+    {
+        "is_live": false,
+        "date": "2025-07-16T11:30:00Z",
+        "time": "",
+        "id": null,
+        "logo": "",
+        "home_team": "China W",
+        "home_image": "https:\/\/sta.vnres.co\/file\/common\/20250714\/241d251b2fa5fbdf8bf1df206750d0b8.png",
+        "away_team": "New Zealand W",
+        "away_image": "https:\/\/sta.vnres.co\/file\/common\/20250714\/3393560ce1185d08dc069267c2b05c12.png",
+        "league": "ACW",
+        "links": []
+    },
+    {
+        "is_live": false,
+        "date": "2025-07-16T12:00:00Z",
+        "time": "",
+        "id": null,
+        "logo": "",
+        "home_team": "AFC Ajax",
+        "home_image": "https:\/\/sta.vnres.co\/file\/common\/20250713\/1df5e1c4c4c3a3d8c41894ac4ede52c0.png",
+        "away_team": "PAOK Saloniki",
+        "away_image": "https:\/\/sta.vnres.co\/file\/common\/20250713\/037791f84648247c73a52568e9bf0be3.png",
+        "league": "INT CF",
+        "links": []
+    },
+    {
+        "is_live": false,
+        "date": "2025-07-16T13:00:00Z",
+        "time": "",
+        "id": null,
+        "logo": "",
+        "home_team": "Lebanon (w)",
+        "home_image": "https:\/\/sta.vnres.co\/file\/common\/20250713\/2da8c85f3dd60ba8ed6bf9416fb2cad8.png",
+        "away_team": "Iran (w)",
+        "away_image": "https:\/\/sta.vnres.co\/file\/common\/20250713\/85f7241ecff1ca82e70e29fef760ccfb.png",
+        "league": "Asian CQW",
+        "links": []
+    },
+    {
+        "is_live": false,
+        "date": "2025-07-16T13:00:00Z",
+        "time": "",
+        "id": null,
+        "logo": "",
+        "home_team": "Myanmar U23",
+        "home_image": "https:\/\/sta.vnres.co\/file\/common\/20250713\/8b854a5939f026916a4b7addae0a7fc1.png",
+        "away_team": "Timor Leste U23",
+        "away_image": "https:\/\/sta.vnres.co\/file\/common\/20250713\/c8330c69e6f0f28de1d8b2742685ac30.png",
+        "league": "AFF U23",
+        "links": []
+    },
+    {
+        "is_live": false,
+        "date": "2025-07-16T13:30:00Z",
+        "time": "",
+        "id": null,
+        "logo": "",
+        "home_team": "CS Sagesse",
+        "home_image": "https:\/\/sta.vnres.co\/file\/common\/20250713\/7962b625d742afe95d6eea1cf0a227c2.png",
+        "away_team": "Al Ahed SC",
+        "away_image": "https:\/\/sta.vnres.co\/file\/common\/20250713\/bce4cc910e777c27ac244a04ccb466b8.png",
+        "league": "LBN D1",
+        "links": []
+    },
+    {
+        "is_live": false,
+        "date": "2025-07-16T15:30:00Z",
+        "time": "",
+        "id": null,
+        "logo": "",
+        "home_team": "JIPPO",
+        "home_image": "https:\/\/sta.vnres.co\/file\/common\/20250713\/9b4bb41e8c821a21b1a84fae12276592.png",
+        "away_team": "Ekenas IF",
+        "away_image": "https:\/\/sta.vnres.co\/file\/common\/20250713\/37f8931a3b9f6d112fcb97f48d9864ae.png",
+        "league": "FIN D2",
         "links": []
     }
 ]
