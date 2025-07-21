@@ -1,22 +1,95 @@
 [
     {
-        "is_live": false,
+        "is_live": true,
         "date": "2025-07-21T09:00:00Z",
         "time": "",
-        "id": null,
+        "id": "9912101",
         "logo": "",
         "home_team": "Avispa Fukuoka",
         "home_image": "https:\/\/sta.vnres.co\/file\/common\/20250717\/e054779ecf450de231d30da3503492fa.png",
         "away_team": "Kyoto Sanga",
         "away_image": "https:\/\/sta.vnres.co\/file\/common\/20250717\/0c1147b611f4643a8535a8c0612d7205.png",
         "league": "JPN D1",
-        "links": []
+        "links": [
+            {
+                "title": "Soco SD",
+                "url": "https:\/\/stream-flv.dfsfe.top\/lives\/327159-480p.m3u8",
+                "referrer": "https:\/\/socolivev.co\/",
+                "user_agent": ""
+            },
+            {
+                "title": "Soco HD",
+                "url": "https:\/\/stream-flv.dfsfe.top\/lives\/327159-720p.m3u8",
+                "referrer": "https:\/\/socolivev.co\/",
+                "user_agent": ""
+            },
+            {
+                "title": "Soco SD",
+                "url": "https:\/\/pull.niur.live\/live\/stream-9912108_lsd.m3u8?txSecret=38e1b143b7f17eaa2eb0c427f6b454eb&txTime=687e55f0",
+                "referrer": "https:\/\/socolivev.co\/",
+                "user_agent": ""
+            },
+            {
+                "title": "Soco HD",
+                "url": "https:\/\/pull.niur.live\/live\/stream-9912108_lhd.m3u8?txSecret=a97bd167d82c90f178a896ab63d0e90c&txTime=687e55f0",
+                "referrer": "https:\/\/socolivev.co\/",
+                "user_agent": ""
+            },
+            {
+                "title": "Soco SD",
+                "url": "https:\/\/stream-flv.dfsfe.top\/lives\/9912102-480p.m3u8",
+                "referrer": "https:\/\/socolivev.co\/",
+                "user_agent": ""
+            },
+            {
+                "title": "Soco HD",
+                "url": "https:\/\/stream-flv.dfsfe.top\/lives\/9912102-720p.m3u8",
+                "referrer": "https:\/\/socolivev.co\/",
+                "user_agent": ""
+            },
+            {
+                "title": "Soco SD",
+                "url": "https:\/\/pull.niues.live\/live\/stream-9912041_lsd.m3u8?auth_key=1753092001-0-0-defe2c92832b1f8dbb6657f74ff8b4d6",
+                "referrer": "https:\/\/socolivev.co\/",
+                "user_agent": ""
+            },
+            {
+                "title": "Soco HD",
+                "url": "https:\/\/pull.niues.live\/live\/stream-9912041_lhd.m3u8?auth_key=1753092001-0-0-6b3051d6bcce323aba45f553779ec996",
+                "referrer": "https:\/\/socolivev.co\/",
+                "user_agent": ""
+            },
+            {
+                "title": "Soco SD",
+                "url": "https:\/\/stream-flv.dfsfe.top\/lives\/9912060-480p.m3u8",
+                "referrer": "https:\/\/socolivev.co\/",
+                "user_agent": ""
+            },
+            {
+                "title": "Soco HD",
+                "url": "https:\/\/stream-flv.dfsfe.top\/lives\/9912060-720p.m3u8",
+                "referrer": "https:\/\/socolivev.co\/",
+                "user_agent": ""
+            },
+            {
+                "title": "Soco SD",
+                "url": "https:\/\/stream-flv.dfsfe.top\/lives\/9912101-480p.m3u8",
+                "referrer": "https:\/\/socolivev.co\/",
+                "user_agent": ""
+            },
+            {
+                "title": "Soco HD",
+                "url": "https:\/\/stream-flv.dfsfe.top\/lives\/9912101-720p.m3u8",
+                "referrer": "https:\/\/socolivev.co\/",
+                "user_agent": ""
+            }
+        ]
     },
     {
         "is_live": false,
         "date": "2025-07-21T10:00:00Z",
         "time": "",
-        "id": null,
+        "id": "9912101",
         "logo": "",
         "home_team": "FC Gifu",
         "home_image": "https:\/\/sta.vnres.co\/file\/common\/20250717\/4949bded8019c63bde318fb1f6663cfa.png",
@@ -29,7 +102,7 @@
         "is_live": false,
         "date": "2025-07-21T10:00:00Z",
         "time": "",
-        "id": null,
+        "id": "9912101",
         "logo": "",
         "home_team": "Kagoshima United",
         "home_image": "https:\/\/sta.vnres.co\/file\/common\/20250717\/7d71871e0f2f9b1ef2227c321df09546.png",
@@ -42,7 +115,7 @@
         "is_live": false,
         "date": "2025-07-21T10:00:00Z",
         "time": "",
-        "id": null,
+        "id": "9912101",
         "logo": "",
         "home_team": "Tegevajaro Miyazaki",
         "home_image": "https:\/\/sta.vnres.co\/file\/common\/20250717\/25c9deb329068104be2a292c8d3a8ffa.png",
@@ -55,7 +128,7 @@
         "is_live": false,
         "date": "2025-07-21T10:00:00Z",
         "time": "",
-        "id": null,
+        "id": "9912101",
         "logo": "",
         "home_team": "Lebanon Univ.",
         "home_image": "https:\/\/sta.vnres.co\/file\/common\/20250719\/37755364358c7ce5aa1550b05f62f328.png",
@@ -68,7 +141,7 @@
         "is_live": false,
         "date": "2025-07-21T11:30:00Z",
         "time": "",
-        "id": null,
+        "id": "9912101",
         "logo": "",
         "home_team": "Shenzhen Juniors",
         "home_image": "https:\/\/sta.vnres.co\/file\/common\/20250717\/02a04974146ca45cb20bf8114aed5895.png",
@@ -81,7 +154,7 @@
         "is_live": false,
         "date": "2025-07-21T13:00:00Z",
         "time": "",
-        "id": null,
+        "id": "9912101",
         "logo": "",
         "home_team": "Indonesia U23",
         "home_image": "https:\/\/sta.vnres.co\/file\/common\/20250717\/efa1258325cafbfc860335a50a5603f7.png",
@@ -94,7 +167,7 @@
         "is_live": false,
         "date": "2025-07-21T13:00:00Z",
         "time": "",
-        "id": null,
+        "id": "9912101",
         "logo": "",
         "home_team": "Philippines U23",
         "home_image": "https:\/\/sta.vnres.co\/file\/common\/20250717\/95484adb0e86aad840986ea1dcaf8379.png",
@@ -107,7 +180,7 @@
         "is_live": false,
         "date": "2025-07-21T14:30:00Z",
         "time": "",
-        "id": null,
+        "id": "9912101",
         "logo": "",
         "home_team": "Gazovik Orenburg",
         "home_image": "https:\/\/sta.vnres.co\/file\/common\/20250717\/474c3363de47e8e4a9378dece4f94a01.png",
@@ -120,7 +193,7 @@
         "is_live": false,
         "date": "2025-07-21T15:00:00Z",
         "time": "",
-        "id": null,
+        "id": "9912101",
         "logo": "",
         "home_team": "IFK Mariehamn",
         "home_image": "https:\/\/sta.vnres.co\/file\/common\/20250717\/59c02ed154d52410e7699c41af98c205.png",
@@ -133,7 +206,7 @@
         "is_live": false,
         "date": "2025-07-21T15:00:00Z",
         "time": "",
-        "id": null,
+        "id": "9912101",
         "logo": "",
         "home_team": "Tukums-2000",
         "home_image": "https:\/\/sta.vnres.co\/file\/common\/20250717\/9edabd1f66bd90eeb6b0bd7d4010afaa.png",
