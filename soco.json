@@ -1,35 +1,109 @@
 [
     {
-        "is_live": false,
+        "is_live": true,
         "date": "2025-07-30T15:00:00Z",
         "time": "",
-        "id": null,
+        "id": "380460",
         "logo": "",
         "home_team": "Sparta Praha B",
         "home_image": "https:\/\/sta.vnres.co\/file\/common\/20250727\/51fadbcb79e92837009841463625136e.png",
         "away_team": "Slavia Praha B",
         "away_image": "https:\/\/sta.vnres.co\/file\/common\/20250727\/55c7e82504733fbf4727e2f1522e00e9.jpg",
         "league": "CZE D2",
-        "links": []
+        "links": [
+            {
+                "title": "Soco SD",
+                "url": "https:\/\/pull.niur.live\/live\/stream-531989_lsd.m3u8?txSecret=82a2981b399072f429e266e59ca4ea4c&txTime=688a87c3",
+                "referrer": "https:\/\/socolivev.co\/",
+                "user_agent": ""
+            },
+            {
+                "title": "Soco HD",
+                "url": "https:\/\/pull.niur.live\/live\/stream-531989_lhd.m3u8?txSecret=45fe8fbba1f1ccfa7ad6d4f5edc4b99e&txTime=688a87c3",
+                "referrer": "https:\/\/socolivev.co\/",
+                "user_agent": ""
+            },
+            {
+                "title": "Soco SD",
+                "url": "https:\/\/pull.niues.live\/live\/stream-513394_lsd.m3u8?auth_key=1753891187-0-0-51efb2e0f8289520be725ad14593631b",
+                "referrer": "https:\/\/socolivev.co\/",
+                "user_agent": ""
+            },
+            {
+                "title": "Soco HD",
+                "url": "https:\/\/pull.niues.live\/live\/stream-513394_lhd.m3u8?auth_key=1753891187-0-0-1c926602bd37d6b1c63556159445a252",
+                "referrer": "https:\/\/socolivev.co\/",
+                "user_agent": ""
+            },
+            {
+                "title": "Soco SD",
+                "url": "https:\/\/pull.niur.live\/live\/stream-380460_lsd.m3u8?txSecret=dbff2e770f365eb99b030112394139db&txTime=688a87c2",
+                "referrer": "https:\/\/socolivev.co\/",
+                "user_agent": ""
+            },
+            {
+                "title": "Soco HD",
+                "url": "https:\/\/pull.niur.live\/live\/stream-380460_lhd.m3u8?txSecret=96e4a900d32a989be7bd00ab8d605871&txTime=688a87c2",
+                "referrer": "https:\/\/socolivev.co\/",
+                "user_agent": ""
+            }
+        ]
     },
     {
-        "is_live": false,
+        "is_live": true,
         "date": "2025-07-30T15:00:00Z",
         "time": "",
-        "id": null,
+        "id": "9912081",
         "logo": "",
         "home_team": "New England Revolution B",
         "home_image": "https:\/\/sta.vnres.co\/file\/common\/20250727\/f7b832b56ec809c81c3568d4e2760b84.png",
         "away_team": "Atlanta United FC II",
         "away_image": "https:\/\/sta.vnres.co\/file\/common\/20250727\/c8ab6e8f696feec5d67c3840796699fa.png",
         "league": "USA MLSRv",
-        "links": []
+        "links": [
+            {
+                "title": "Soco SD",
+                "url": "https:\/\/pull.niues.live\/live\/stream-9912007_lsd.m3u8?auth_key=1753891186-0-0-519cbdc06a23a651fde906d286a5b9c9",
+                "referrer": "https:\/\/socolivev.co\/",
+                "user_agent": ""
+            },
+            {
+                "title": "Soco HD",
+                "url": "https:\/\/pull.niues.live\/live\/stream-9912007_lhd.m3u8?auth_key=1753891186-0-0-2f3f29f11846887edc30c858ea1537bb",
+                "referrer": "https:\/\/socolivev.co\/",
+                "user_agent": ""
+            },
+            {
+                "title": "Soco SD",
+                "url": "https:\/\/pull.niur.live\/live\/stream-9912092_lsd.m3u8?txSecret=625fbf9182c25283aedbd4542e34a78f&txTime=688a87c2",
+                "referrer": "https:\/\/socolivev.co\/",
+                "user_agent": ""
+            },
+            {
+                "title": "Soco HD",
+                "url": "https:\/\/pull.niur.live\/live\/stream-9912092_lhd.m3u8?txSecret=dc15771b5371d3c1931fcfb43fccd9f7&txTime=688a87c2",
+                "referrer": "https:\/\/socolivev.co\/",
+                "user_agent": ""
+            },
+            {
+                "title": "Soco SD",
+                "url": "https:\/\/pull.niues.live\/live\/stream-9912081_lsd.m3u8?auth_key=1753891186-0-0-fd983e076b8671a507603eda4f4b10ee",
+                "referrer": "https:\/\/socolivev.co\/",
+                "user_agent": ""
+            },
+            {
+                "title": "Soco HD",
+                "url": "https:\/\/pull.niues.live\/live\/stream-9912081_lhd.m3u8?auth_key=1753891186-0-0-754e86bcfaca66f29e1fa24ecb244772",
+                "referrer": "https:\/\/socolivev.co\/",
+                "user_agent": ""
+            }
+        ]
     },
     {
         "is_live": false,
         "date": "2025-07-30T15:30:00Z",
         "time": "",
-        "id": null,
+        "id": "9912081",
         "logo": "",
         "home_team": "CSKA Moscow",
         "home_image": "https:\/\/sta.vnres.co\/file\/common\/20250727\/9057a1ea2bfd750790b5fc8c68a50957.png",
@@ -42,7 +116,7 @@
         "is_live": false,
         "date": "2025-07-30T15:30:00Z",
         "time": "",
-        "id": null,
+        "id": "9912081",
         "logo": "",
         "home_team": "Dynamo Makhachkala",
         "home_image": "https:\/\/sta.vnres.co\/file\/common\/20250727\/a983dbe6d4cdee2e9afb30f87791b88d.png",
@@ -55,7 +129,7 @@
         "is_live": false,
         "date": "2025-07-30T15:30:00Z",
         "time": "",
-        "id": null,
+        "id": "9912081",
         "logo": "",
         "home_team": "SK Artis Brno",
         "home_image": "https:\/\/sta.vnres.co\/file\/common\/20250727\/15845922315d13075ae2dafed1fdf0cf.png",
@@ -68,7 +142,7 @@
         "is_live": false,
         "date": "2025-07-30T15:30:00Z",
         "time": "",
-        "id": null,
+        "id": "9912081",
         "logo": "",
         "home_team": "Al Nassr FC",
         "home_image": "https:\/\/sta.vnres.co\/file\/common\/20250727\/0450f0b27e6aac6401eecb9697b32b2e.png",
@@ -81,7 +155,7 @@
         "is_live": false,
         "date": "2025-07-30T15:30:00Z",
         "time": "",
-        "id": null,
+        "id": "9912081",
         "logo": "",
         "home_team": "RCD Mallorca",
         "home_image": "https:\/\/sta.vnres.co\/file\/common\/20250727\/39810be237c74771126446f85634ab35.png",
