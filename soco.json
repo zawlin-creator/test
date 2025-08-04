@@ -1,14 +1,14 @@
 [
     {
         "is_live": true,
-        "date": "2025-08-04T08:00:00Z",
+        "date": "2025-08-04T10:00:00Z",
         "time": "",
         "id": "9912111",
         "logo": "",
-        "home_team": "Abra Weavers",
-        "home_image": "https:\/\/sta.vnres.co\/file\/common\/20250802\/8f362e86149329ca0f691c31deb6bd27.png",
-        "away_team": "Manila Batang Quiapo",
-        "away_image": "https:\/\/sta.vnres.co\/file\/common\/20250802\/e3ba001537202669bd60cbf63aaa7260.png",
+        "home_team": "Basilan Viva Portmasters",
+        "home_image": "https:\/\/sta.vnres.co\/file\/common\/20250802\/68db6484a341d8de7b2b577af6761de9.png",
+        "away_team": "Bacolod Tubo Slashers",
+        "away_image": "https:\/\/sta.vnres.co\/file\/common\/20250802\/a2c06c7deee6f1903d391dde42d91925.png",
         "league": "MPBL",
         "links": [
             {
@@ -20,18 +20,6 @@
             {
                 "title": "Soco HD",
                 "url": "https:\/\/stream-flv.dfsfe.top\/lives\/9912106-720p.m3u8",
-                "referrer": "https:\/\/socolivev.co\/",
-                "user_agent": ""
-            },
-            {
-                "title": "Soco SD",
-                "url": "https:\/\/stream-flv.dfsfe.top\/lives\/289098-480p.m3u8",
-                "referrer": "https:\/\/socolivev.co\/",
-                "user_agent": ""
-            },
-            {
-                "title": "Soco HD",
-                "url": "https:\/\/stream-flv.dfsfe.top\/lives\/289098-720p.m3u8",
                 "referrer": "https:\/\/socolivev.co\/",
                 "user_agent": ""
             },
@@ -49,30 +37,6 @@
             },
             {
                 "title": "Soco SD",
-                "url": "https:\/\/stream-flv.dfsfe.top\/lives\/428392-480p.m3u8",
-                "referrer": "https:\/\/socolivev.co\/",
-                "user_agent": ""
-            },
-            {
-                "title": "Soco HD",
-                "url": "https:\/\/stream-flv.dfsfe.top\/lives\/428392-720p.m3u8",
-                "referrer": "https:\/\/socolivev.co\/",
-                "user_agent": ""
-            },
-            {
-                "title": "Soco SD",
-                "url": "https:\/\/stream-flv.dfsfe.top\/lives\/9912107-480p.m3u8",
-                "referrer": "https:\/\/socolivev.co\/",
-                "user_agent": ""
-            },
-            {
-                "title": "Soco HD",
-                "url": "https:\/\/stream-flv.dfsfe.top\/lives\/9912107-720p.m3u8",
-                "referrer": "https:\/\/socolivev.co\/",
-                "user_agent": ""
-            },
-            {
-                "title": "Soco SD",
                 "url": "https:\/\/stream-flv.dfsfe.top\/lives\/9912111-480p.m3u8",
                 "referrer": "https:\/\/socolivev.co\/",
                 "user_agent": ""
@@ -84,19 +48,6 @@
                 "user_agent": ""
             }
         ]
-    },
-    {
-        "is_live": false,
-        "date": "2025-08-04T10:00:00Z",
-        "time": "",
-        "id": "9912111",
-        "logo": "",
-        "home_team": "Basilan Viva Portmasters",
-        "home_image": "https:\/\/sta.vnres.co\/file\/common\/20250802\/68db6484a341d8de7b2b577af6761de9.png",
-        "away_team": "Bacolod Tubo Slashers",
-        "away_image": "https:\/\/sta.vnres.co\/file\/common\/20250802\/a2c06c7deee6f1903d391dde42d91925.png",
-        "league": "MPBL",
-        "links": []
     },
     {
         "is_live": false,
