@@ -1,61 +1,9 @@
 [
     {
-        "is_live": true,
-        "date": "2025-08-11T11:00:00Z",
-        "time": "",
-        "id": "9912099",
-        "logo": "",
-        "home_team": "Chinese Taipei",
-        "home_image": "https:\/\/sta.vnres.co\/file\/common\/20250811\/fc356f51a1f3fa2dfd162a497f1b03da.png",
-        "away_team": "Jordan",
-        "away_image": "https:\/\/sta.vnres.co\/file\/common\/20250811\/ad9eeb34e6e364ce36fbc4c5743173b2.png",
-        "league": "ACQ",
-        "links": [
-            {
-                "title": "Soco SD",
-                "url": "https:\/\/pull.niur.live\/live\/stream-9912099_lsd.m3u8?txSecret=6c90b1ad44be1918f56423a7bff76551&txTime=689a369c",
-                "referrer": "https:\/\/socolivev.co\/",
-                "user_agent": ""
-            },
-            {
-                "title": "Soco HD",
-                "url": "https:\/\/pull.niur.live\/live\/stream-9912099_lhd.m3u8?txSecret=ef95aa50458a719e14495c8ae3e32564&txTime=689a369c",
-                "referrer": "https:\/\/socolivev.co\/",
-                "user_agent": ""
-            }
-        ]
-    },
-    {
-        "is_live": true,
-        "date": "2025-08-11T12:00:00Z",
-        "time": "",
-        "id": "9912112",
-        "logo": "",
-        "home_team": "Batangas City",
-        "home_image": "https:\/\/sta.vnres.co\/file\/common\/20250809\/20f3c8ff1dd47d4bfc0e3b28bef925ce.png",
-        "away_team": "Bacolod Tubo Slashers",
-        "away_image": "https:\/\/sta.vnres.co\/file\/common\/20250809\/17d85dbd84c676543ac122517ae4e1b9.png",
-        "league": "MPBL",
-        "links": [
-            {
-                "title": "Soco SD",
-                "url": "https:\/\/pull.niues.live\/live\/stream-9912112_lsd.m3u8?auth_key=1754918871-0-0-3dadbb15343a078c4cd86f2692ef005e",
-                "referrer": "https:\/\/socolivev.co\/",
-                "user_agent": ""
-            },
-            {
-                "title": "Soco HD",
-                "url": "https:\/\/pull.niues.live\/live\/stream-9912112_lhd.m3u8?auth_key=1754918871-0-0-d4884d218089cc10487a5be7245c437e",
-                "referrer": "https:\/\/socolivev.co\/",
-                "user_agent": ""
-            }
-        ]
-    },
-    {
         "is_live": false,
         "date": "2025-08-11T14:00:00Z",
         "time": "",
-        "id": "9912112",
+        "id": null,
         "logo": "",
         "home_team": "Neftchi Fergana",
         "home_image": "https:\/\/sta.vnres.co\/file\/common\/20250808\/c7338a65b8cb5dd429613097a0499821.png",
@@ -68,7 +16,7 @@
         "is_live": false,
         "date": "2025-08-11T14:00:00Z",
         "time": "",
-        "id": "9912112",
+        "id": null,
         "logo": "",
         "home_team": "South Africa",
         "home_image": "https:\/\/sta.vnres.co\/file\/common\/20250808\/7159386c084d4dc0eb71ec48581b37b0.png",
@@ -81,7 +29,7 @@
         "is_live": false,
         "date": "2025-08-11T15:00:00Z",
         "time": "",
-        "id": "9912112",
+        "id": null,
         "logo": "",
         "home_team": "Zorya",
         "home_image": "https:\/\/sta.vnres.co\/file\/common\/20250808\/f522891aeab6adef28f6fc2cce993154.png",
@@ -94,7 +42,7 @@
         "is_live": false,
         "date": "2025-08-11T15:00:00Z",
         "time": "",
-        "id": "9912112",
+        "id": null,
         "logo": "",
         "home_team": "Dinamo Samarqand",
         "home_image": "https:\/\/sta.vnres.co\/file\/common\/20250808\/172b86150cb81790c620b83a205cf9f9.png",
@@ -107,7 +55,7 @@
         "is_live": false,
         "date": "2025-08-11T15:00:00Z",
         "time": "",
-        "id": "9912112",
+        "id": null,
         "logo": "",
         "home_team": "Braga U23",
         "home_image": "https:\/\/sta.vnres.co\/file\/common\/20250808\/de23826ba86080528250cd6298a4353b.png",
