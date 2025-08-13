@@ -1,6 +1,6 @@
 [
     {
-        "is_live": false,
+        "is_live": true,
         "date": "2025-08-13T06:00:00Z",
         "time": "",
         "id": null,
@@ -10,7 +10,20 @@
         "away_team": "Heilongjiang W",
         "away_image": "https:\/\/sta.vnres.co\/file\/common\/20250811\/25731a28ec3c6ece454e9634ddfbc50e.png",
         "league": "CSGBW",
-        "links": []
+        "links": [
+            {
+                "title": "Soco SD",
+                "url": "https:\/\/pull.niues.live\/live\/stream-9912106_lsd.m3u8?auth_key=1755068388-0-0-c7994d30f40acc2aeab6993076c4f192",
+                "referrer": "https:\/\/socolivev.co\/",
+                "user_agent": ""
+            },
+            {
+                "title": "Soco HD",
+                "url": "https:\/\/pull.niues.live\/live\/stream-9912106_lhd.m3u8?auth_key=1755068388-0-0-ce4f232ed90e1e608e8285679633d92d",
+                "referrer": "https:\/\/socolivev.co\/",
+                "user_agent": ""
+            }
+        ]
     },
     {
         "is_live": false,
