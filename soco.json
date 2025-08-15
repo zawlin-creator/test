@@ -1,43 +1,5 @@
 [
     {
-        "is_live": true,
-        "date": "2025-08-15T03:00:00Z",
-        "time": "",
-        "id": null,
-        "logo": "",
-        "home_team": "Soles",
-        "home_image": "https:\/\/sta.vnres.co\/file\/common\/20250813\/f7e59a968e4278526f625fc8893ce3b2.png",
-        "away_team": "Santos",
-        "away_image": "https:\/\/sta.vnres.co\/file\/common\/20250813\/c919d786131ed59b1d15c872bc8a55cc.png",
-        "league": "LNBP",
-        "links": [
-            {
-                "title": "Soco SD",
-                "url": "https:\/\/pull.niues.live\/live\/stream-9912112_lsd.m3u8?auth_key=1755235788-0-0-ac2e9c463a1ea164f81b5c4cd092c1d6",
-                "referrer": "https:\/\/socolivev.co\/",
-                "user_agent": ""
-            },
-            {
-                "title": "Soco HD",
-                "url": "https:\/\/pull.niues.live\/live\/stream-9912112_lhd.m3u8?auth_key=1755235788-0-0-55aa1130809a355c3c0beaaa26ecada8",
-                "referrer": "https:\/\/socolivev.co\/",
-                "user_agent": ""
-            },
-            {
-                "title": "Soco SD",
-                "url": "https:\/\/pull.niues.live\/live\/stream-9912107_lsd.m3u8?auth_key=1755235788-0-0-3aba314f28b5af8fd7279f712c751e8c",
-                "referrer": "https:\/\/socolivev.co\/",
-                "user_agent": ""
-            },
-            {
-                "title": "Soco HD",
-                "url": "https:\/\/pull.niues.live\/live\/stream-9912107_lhd.m3u8?auth_key=1755235788-0-0-06cd329467d17f4c208b1981c2fa2265",
-                "referrer": "https:\/\/socolivev.co\/",
-                "user_agent": ""
-            }
-        ]
-    },
-    {
         "is_live": false,
         "date": "2025-08-15T08:00:00Z",
         "time": "",
