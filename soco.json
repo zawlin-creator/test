@@ -1,234 +1,6 @@
 [
     {
         "is_live": true,
-        "date": "2025-08-17T05:00:00Z",
-        "time": "",
-        "id": null,
-        "logo": "",
-        "home_team": "Gungahlin United",
-        "home_image": "https:\/\/sta.vnres.co\/file\/common\/20250814\/c8a626804ae752612db9757f6bda2234.png",
-        "away_team": "Canberra FC",
-        "away_image": "https:\/\/sta.vnres.co\/file\/common\/20250814\/9c0f2db625dec30850c1b91f8ad187f5.png",
-        "league": "AUS CGP",
-        "links": [
-            {
-                "title": "Soco SD",
-                "url": "https:\/\/pull.niues.live\/live\/stream-9912108_lsd.m3u8?auth_key=1755415788-0-0-d93f84681425b8af7d3bea8c6cea0288",
-                "referrer": "https:\/\/socolivev.co\/",
-                "user_agent": ""
-            },
-            {
-                "title": "Soco HD",
-                "url": "https:\/\/pull.niues.live\/live\/stream-9912108_lhd.m3u8?auth_key=1755415788-0-0-3c61b464cf3537cb3544cafb08489bae",
-                "referrer": "https:\/\/socolivev.co\/",
-                "user_agent": ""
-            },
-            {
-                "title": "Soco SD",
-                "url": "https:\/\/pull.niur.live\/live\/stream-485739_lsd.m3u8?txSecret=9e9520324a84344d86ad362e6e4506f4&txTime=68a1cb3c",
-                "referrer": "https:\/\/socolivev.co\/",
-                "user_agent": ""
-            },
-            {
-                "title": "Soco HD",
-                "url": "https:\/\/pull.niur.live\/live\/stream-485739_lhd.m3u8?txSecret=79b623970c0e977b8874f706092706f7&txTime=68a1cb3c",
-                "referrer": "https:\/\/socolivev.co\/",
-                "user_agent": ""
-            }
-        ]
-    },
-    {
-        "is_live": true,
-        "date": "2025-08-17T05:00:00Z",
-        "time": "",
-        "id": null,
-        "logo": "",
-        "home_team": "A.P.I.A. Leichhardt Tigers",
-        "home_image": "https:\/\/sta.vnres.co\/file\/common\/20250814\/57c22efd31b5f960410fae4137620f68.png",
-        "away_team": "Sutherland Sharks",
-        "away_image": "https:\/\/sta.vnres.co\/file\/common\/20250814\/9cb7942e4c2bd8a187c2abaddc37e284.png",
-        "league": "AUS NSW",
-        "links": [
-            {
-                "title": "Soco SD",
-                "url": "https:\/\/pull.niues.live\/live\/stream-239275_lsd.m3u8?auth_key=1755415788-0-0-8297785374288a865e86e96ccc86b004",
-                "referrer": "https:\/\/socolivev.co\/",
-                "user_agent": ""
-            },
-            {
-                "title": "Soco HD",
-                "url": "https:\/\/pull.niues.live\/live\/stream-239275_lhd.m3u8?auth_key=1755415788-0-0-0957ad7d216e3c802f658d7ca6743ff1",
-                "referrer": "https:\/\/socolivev.co\/",
-                "user_agent": ""
-            },
-            {
-                "title": "Soco SD",
-                "url": "https:\/\/pull.niur.live\/live\/stream-462413_lsd.m3u8?txSecret=7b265d1d8492449dee6349de9f97828b&txTime=68a1cb3c",
-                "referrer": "https:\/\/socolivev.co\/",
-                "user_agent": ""
-            },
-            {
-                "title": "Soco HD",
-                "url": "https:\/\/pull.niur.live\/live\/stream-462413_lhd.m3u8?txSecret=7f5b76c97712977697c86d2b8ed7c5f7&txTime=68a1cb3c",
-                "referrer": "https:\/\/socolivev.co\/",
-                "user_agent": ""
-            }
-        ]
-    },
-    {
-        "is_live": true,
-        "date": "2025-08-17T05:00:00Z",
-        "time": "",
-        "id": null,
-        "logo": "",
-        "home_team": "Blacktown City Demons",
-        "home_image": "https:\/\/sta.vnres.co\/file\/common\/20250814\/4e33432fae0993356c87dc0ccf4abfd4.png",
-        "away_team": "Western Sydney Wanderers AM",
-        "away_image": "https:\/\/sta.vnres.co\/file\/common\/20250814\/91a4e7b1274555ec6a7f0b6bbbed85a5.png",
-        "league": "AUS NSW",
-        "links": [
-            {
-                "title": "Soco SD",
-                "url": "https:\/\/pull.niues.live\/live\/stream-9912105_lsd.m3u8?auth_key=1755415788-0-0-3f11dfb3d945dce724cd40279ea1f87d",
-                "referrer": "https:\/\/socolivev.co\/",
-                "user_agent": ""
-            },
-            {
-                "title": "Soco HD",
-                "url": "https:\/\/pull.niues.live\/live\/stream-9912105_lhd.m3u8?auth_key=1755415788-0-0-268d0b909f8e7ac64430f4901c9d2aaf",
-                "referrer": "https:\/\/socolivev.co\/",
-                "user_agent": ""
-            },
-            {
-                "title": "Soco SD",
-                "url": "https:\/\/pull.niur.live\/live\/stream-519740_lsd.m3u8?txSecret=3ec00943e2c4c9f738a1a5b569cf87fe&txTime=68a1cb3c",
-                "referrer": "https:\/\/socolivev.co\/",
-                "user_agent": ""
-            },
-            {
-                "title": "Soco HD",
-                "url": "https:\/\/pull.niur.live\/live\/stream-519740_lhd.m3u8?txSecret=90d4296e1805517b6c9936564a3b981d&txTime=68a1cb3c",
-                "referrer": "https:\/\/socolivev.co\/",
-                "user_agent": ""
-            }
-        ]
-    },
-    {
-        "is_live": true,
-        "date": "2025-08-17T05:00:00Z",
-        "time": "",
-        "id": null,
-        "logo": "",
-        "home_team": "Marconi Stallions",
-        "home_image": "https:\/\/sta.vnres.co\/file\/common\/20250814\/7841db83d131e1b6120b448b417e2070.png",
-        "away_team": "Manly United",
-        "away_image": "https:\/\/sta.vnres.co\/file\/common\/20250814\/14337acd4d929d4b72c4e5cc92e7eb9e.png",
-        "league": "AUS NSW",
-        "links": [
-            {
-                "title": "Soco SD",
-                "url": "https:\/\/pull.niues.live\/live\/stream-291277_lsd.m3u8?auth_key=1755415788-0-0-b7b320cb403006a0a899714fc33e5851",
-                "referrer": "https:\/\/socolivev.co\/",
-                "user_agent": ""
-            },
-            {
-                "title": "Soco HD",
-                "url": "https:\/\/pull.niues.live\/live\/stream-291277_lhd.m3u8?auth_key=1755415788-0-0-6ae306f68961a96ded1b8c4363a0330d",
-                "referrer": "https:\/\/socolivev.co\/",
-                "user_agent": ""
-            },
-            {
-                "title": "Soco SD",
-                "url": "https:\/\/pull.niur.live\/live\/stream-9912009_lsd.m3u8?txSecret=cd230cf9f5b58af5ebb9d5c922f95507&txTime=68a1cb3c",
-                "referrer": "https:\/\/socolivev.co\/",
-                "user_agent": ""
-            },
-            {
-                "title": "Soco HD",
-                "url": "https:\/\/pull.niur.live\/live\/stream-9912009_lhd.m3u8?txSecret=29f50ea1fd2dbc3570691f05a6bf9124&txTime=68a1cb3c",
-                "referrer": "https:\/\/socolivev.co\/",
-                "user_agent": ""
-            }
-        ]
-    },
-    {
-        "is_live": true,
-        "date": "2025-08-17T05:00:00Z",
-        "time": "",
-        "id": null,
-        "logo": "",
-        "home_team": "Central Coast Mariners (Youth)",
-        "home_image": "https:\/\/sta.vnres.co\/file\/common\/20250814\/592b1ef6ce66368eb21b65a873a54842.png",
-        "away_team": "St George City FA",
-        "away_image": "https:\/\/sta.vnres.co\/file\/common\/20250814\/d58d9251262c1be00851b5390e2d43a4.png",
-        "league": "AUS NSW",
-        "links": [
-            {
-                "title": "Soco SD",
-                "url": "https:\/\/pull.niues.live\/live\/stream-290928_lsd.m3u8?auth_key=1755415788-0-0-53eb5c124c8de28600062adc7119bd0a",
-                "referrer": "https:\/\/socolivev.co\/",
-                "user_agent": ""
-            },
-            {
-                "title": "Soco HD",
-                "url": "https:\/\/pull.niues.live\/live\/stream-290928_lhd.m3u8?auth_key=1755415788-0-0-54e298224b0938b2c1a082103365831c",
-                "referrer": "https:\/\/socolivev.co\/",
-                "user_agent": ""
-            },
-            {
-                "title": "Soco SD",
-                "url": "https:\/\/pull.niues.live\/live\/stream-479849_lsd.m3u8?auth_key=1755415788-0-0-1b98141fd9faa04e505933c3e8f33b1c",
-                "referrer": "https:\/\/socolivev.co\/",
-                "user_agent": ""
-            },
-            {
-                "title": "Soco HD",
-                "url": "https:\/\/pull.niues.live\/live\/stream-479849_lhd.m3u8?auth_key=1755415788-0-0-607d05888ee5d1f02f9cb44a912913a9",
-                "referrer": "https:\/\/socolivev.co\/",
-                "user_agent": ""
-            }
-        ]
-    },
-    {
-        "is_live": true,
-        "date": "2025-08-17T05:00:00Z",
-        "time": "",
-        "id": null,
-        "logo": "",
-        "home_team": "Lambton Jarvis",
-        "home_image": "https:\/\/sta.vnres.co\/file\/common\/20250816\/0ac79fda3a477a6f7e994e4c24126460.png",
-        "away_team": "Maitland",
-        "away_image": "https:\/\/sta.vnres.co\/file\/common\/20250816\/48085e91cfd0beec7ef437443bc5f29c.png",
-        "league": "AUS NNSW",
-        "links": [
-            {
-                "title": "Soco SD",
-                "url": "https:\/\/pull.niues.live\/live\/stream-500605_lsd.m3u8?auth_key=1755415788-0-0-2401468bac26d37d8a64021d6501dd1e",
-                "referrer": "https:\/\/socolivev.co\/",
-                "user_agent": ""
-            },
-            {
-                "title": "Soco HD",
-                "url": "https:\/\/pull.niues.live\/live\/stream-500605_lhd.m3u8?auth_key=1755415788-0-0-ddba017a303b25228ca2c086b69f261c",
-                "referrer": "https:\/\/socolivev.co\/",
-                "user_agent": ""
-            },
-            {
-                "title": "Soco SD",
-                "url": "https:\/\/pull.niues.live\/live\/stream-527383_lsd.m3u8?auth_key=1755415788-0-0-d862246a010a30b08da0739353f31e17",
-                "referrer": "https:\/\/socolivev.co\/",
-                "user_agent": ""
-            },
-            {
-                "title": "Soco HD",
-                "url": "https:\/\/pull.niues.live\/live\/stream-527383_lhd.m3u8?auth_key=1755415788-0-0-32848378cf167ccd96728065e2553c59",
-                "referrer": "https:\/\/socolivev.co\/",
-                "user_agent": ""
-            }
-        ]
-    },
-    {
-        "is_live": false,
         "date": "2025-08-17T07:00:00Z",
         "time": "",
         "id": null,
@@ -238,10 +10,35 @@
         "away_team": "Dandenong Thunder",
         "away_image": "https:\/\/sta.vnres.co\/file\/common\/20250814\/89b05d03c2853d337322f32ce6bcb047.png",
         "league": "Aus VPL",
-        "links": []
+        "links": [
+            {
+                "title": "Soco SD",
+                "url": "https:\/\/pull.niues.live\/live\/stream-484845_lsd.m3u8?auth_key=1755417588-0-0-f198b803c7a4e108c0ef5c50cbcceb26",
+                "referrer": "https:\/\/socolivev.co\/",
+                "user_agent": ""
+            },
+            {
+                "title": "Soco HD",
+                "url": "https:\/\/pull.niues.live\/live\/stream-484845_lhd.m3u8?auth_key=1755417588-0-0-5b014aa6def294f791a2b861074c54f9",
+                "referrer": "https:\/\/socolivev.co\/",
+                "user_agent": ""
+            },
+            {
+                "title": "Soco SD",
+                "url": "https:\/\/pull.niur.live\/live\/stream-513979_lsd.m3u8?txSecret=86d827219fb849cbbe4026061812f844&txTime=68a1d244",
+                "referrer": "https:\/\/socolivev.co\/",
+                "user_agent": ""
+            },
+            {
+                "title": "Soco HD",
+                "url": "https:\/\/pull.niur.live\/live\/stream-513979_lhd.m3u8?txSecret=c3d493f7c095b61a1682a6bacae9c6eb&txTime=68a1d244",
+                "referrer": "https:\/\/socolivev.co\/",
+                "user_agent": ""
+            }
+        ]
     },
     {
-        "is_live": false,
+        "is_live": true,
         "date": "2025-08-17T07:00:00Z",
         "time": "",
         "id": null,
@@ -251,7 +48,44 @@
         "away_team": "Avondale FC",
         "away_image": "https:\/\/sta.vnres.co\/file\/common\/20250814\/9dcbc463d39b4e4d9437ccafbc6fb9a0.png",
         "league": "Aus VPL",
-        "links": []
+        "links": [
+            {
+                "title": "Soco SD",
+                "url": "https:\/\/pull.niur.live\/live\/stream-511367_lsd.m3u8?txSecret=6dfeb504952f4af92e06cb10e669158d&txTime=68a1d244",
+                "referrer": "https:\/\/socolivev.co\/",
+                "user_agent": ""
+            },
+            {
+                "title": "Soco HD",
+                "url": "https:\/\/pull.niur.live\/live\/stream-511367_lhd.m3u8?txSecret=5b05e77cb6cf2b545b23ef15fb25052f&txTime=68a1d244",
+                "referrer": "https:\/\/socolivev.co\/",
+                "user_agent": ""
+            },
+            {
+                "title": "Soco SD",
+                "url": "https:\/\/pull.niues.live\/live\/stream-9912104_lsd.m3u8?auth_key=1755417588-0-0-da780322e54f28537d16d72eb02a5a94",
+                "referrer": "https:\/\/socolivev.co\/",
+                "user_agent": ""
+            },
+            {
+                "title": "Soco HD",
+                "url": "https:\/\/pull.niues.live\/live\/stream-9912104_lhd.m3u8?auth_key=1755417588-0-0-32ad5e1c9433346103bc303f482d08ba",
+                "referrer": "https:\/\/socolivev.co\/",
+                "user_agent": ""
+            },
+            {
+                "title": "Soco SD",
+                "url": "https:\/\/pull.niur.live\/live\/stream-351530_lsd.m3u8?txSecret=0aa61b20effbf356ef5f611f0a4378f6&txTime=68a1d244",
+                "referrer": "https:\/\/socolivev.co\/",
+                "user_agent": ""
+            },
+            {
+                "title": "Soco HD",
+                "url": "https:\/\/pull.niur.live\/live\/stream-351530_lhd.m3u8?txSecret=7b8ec18f3d736c393a065d61b74aed96&txTime=68a1d244",
+                "referrer": "https:\/\/socolivev.co\/",
+                "user_agent": ""
+            }
+        ]
     },
     {
         "is_live": false,
