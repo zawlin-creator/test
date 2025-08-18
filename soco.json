@@ -1,6 +1,6 @@
 [
     {
-        "is_live": false,
+        "is_live": true,
         "date": "2025-08-18T08:00:00Z",
         "time": "",
         "id": null,
@@ -10,10 +10,35 @@
         "away_team": "Sydney",
         "away_image": "https:\/\/sta.vnres.co\/file\/common\/20250816\/352288ed42c760922dce8ce9002e17ac.png",
         "league": "NBL",
-        "links": []
+        "links": [
+            {
+                "title": "Soco SD",
+                "url": "https:\/\/stream-flv.dfsfe.top\/lives\/9912111-480p.m3u8",
+                "referrer": "https:\/\/socolivev.co\/",
+                "user_agent": ""
+            },
+            {
+                "title": "Soco HD",
+                "url": "https:\/\/stream-flv.dfsfe.top\/lives\/9912111-720p.m3u8",
+                "referrer": "https:\/\/socolivev.co\/",
+                "user_agent": ""
+            },
+            {
+                "title": "Soco SD",
+                "url": "https:\/\/pull.niues.live\/live\/stream-9912112_lsd.m3u8?auth_key=1755507589-0-0-43fc9ccf8e259dbf10490c889c6e1723",
+                "referrer": "https:\/\/socolivev.co\/",
+                "user_agent": ""
+            },
+            {
+                "title": "Soco HD",
+                "url": "https:\/\/pull.niues.live\/live\/stream-9912112_lhd.m3u8?auth_key=1755507589-0-0-da73fde2aad394fe2609c6f33242da7c",
+                "referrer": "https:\/\/socolivev.co\/",
+                "user_agent": ""
+            }
+        ]
     },
     {
-        "is_live": false,
+        "is_live": true,
         "date": "2025-08-18T08:00:00Z",
         "time": "",
         "id": null,
@@ -23,7 +48,44 @@
         "away_team": "Val City Magic",
         "away_image": "https:\/\/sta.vnres.co\/file\/common\/20250816\/6f18eb2ef53ed3bbbb524732a1bf18cb.png",
         "league": "MPBL",
-        "links": []
+        "links": [
+            {
+                "title": "Soco SD",
+                "url": "https:\/\/pull.niur.live\/live\/stream-289098_lsd.m3u8?txSecret=50b546f4e53be4c0ae52813df7d17a2c&txTime=68a33200",
+                "referrer": "https:\/\/socolivev.co\/",
+                "user_agent": ""
+            },
+            {
+                "title": "Soco HD",
+                "url": "https:\/\/pull.niur.live\/live\/stream-289098_lhd.m3u8?txSecret=3dfa1d6a19e624fbd83cc4a9e857fa3d&txTime=68a33200",
+                "referrer": "https:\/\/socolivev.co\/",
+                "user_agent": ""
+            },
+            {
+                "title": "Soco SD",
+                "url": "https:\/\/pull.niur.live\/live\/stream-9912099_lsd.m3u8?txSecret=ddf35fdb568ef3b30d88f714e0bee747&txTime=68a331d5",
+                "referrer": "https:\/\/socolivev.co\/",
+                "user_agent": ""
+            },
+            {
+                "title": "Soco HD",
+                "url": "https:\/\/pull.niur.live\/live\/stream-9912099_lhd.m3u8?txSecret=dde172d4abf884aa6db61199fd65511c&txTime=68a331d5",
+                "referrer": "https:\/\/socolivev.co\/",
+                "user_agent": ""
+            },
+            {
+                "title": "Soco SD",
+                "url": "https:\/\/pull.niues.live\/live\/stream-9912106_lsd.m3u8?auth_key=1755507589-0-0-c97b9dc427f282606e41582dfbd7eaf2",
+                "referrer": "https:\/\/socolivev.co\/",
+                "user_agent": ""
+            },
+            {
+                "title": "Soco HD",
+                "url": "https:\/\/pull.niues.live\/live\/stream-9912106_lhd.m3u8?auth_key=1755507589-0-0-5ae04bebcd24c0bdc8706c1872974981",
+                "referrer": "https:\/\/socolivev.co\/",
+                "user_agent": ""
+            }
+        ]
     },
     {
         "is_live": false,
@@ -49,6 +111,32 @@
         "away_team": "Ispe FC",
         "away_image": "https:\/\/sta.vnres.co\/file\/common\/20250815\/df131b8e42073d3f5df968c3f6ca3806.png",
         "league": "MYA D1",
+        "links": []
+    },
+    {
+        "is_live": false,
+        "date": "2025-08-18T09:00:00Z",
+        "time": "",
+        "id": null,
+        "logo": "",
+        "home_team": "Macau Black Bears",
+        "home_image": "https:\/\/sta.vnres.co\/file\/common\/20250818\/67280947f184c1e95c7310c83490ffc0.png",
+        "away_team": "Guangzhou Long-Lions B Team",
+        "away_image": "https:\/\/sta.vnres.co\/file\/common\/20250818\/1730e68545c5f2063a4ef143e21e13d7.png",
+        "league": "PTAT",
+        "links": []
+    },
+    {
+        "is_live": false,
+        "date": "2025-08-18T10:00:00Z",
+        "time": "",
+        "id": null,
+        "logo": "",
+        "home_team": "Edgeworth Eagles FC",
+        "home_image": "https:\/\/sta.vnres.co\/file\/common\/20250818\/8cda2e12e54128cfc3efed74f2896672.png",
+        "away_team": "Weston Workers FC",
+        "away_image": "https:\/\/sta.vnres.co\/file\/common\/20250818\/94e046cf353af9c3c083d2b9b9a33f72.png",
+        "league": "AUS NNSW",
         "links": []
     },
     {
