@@ -13,25 +13,25 @@
         "links": [
             {
                 "title": "Soco SD",
-                "url": "https:\/\/pull.niues.live\/live\/stream-9912106_lsd.m3u8?auth_key=1755595789-0-0-90b9295baddf0bf810b8673e783ea200",
+                "url": "https:\/\/pull.niues.live\/live\/stream-9912106_lsd.m3u8?auth_key=1755597589-0-0-477a9c552eb2a234519122d3c0d6a743",
                 "referrer": "https:\/\/socolivev.co\/",
                 "user_agent": ""
             },
             {
                 "title": "Soco HD",
-                "url": "https:\/\/pull.niues.live\/live\/stream-9912106_lhd.m3u8?auth_key=1755595789-0-0-7131258a0fd421e4cc833c4d4c21d760",
+                "url": "https:\/\/pull.niues.live\/live\/stream-9912106_lhd.m3u8?auth_key=1755597589-0-0-3b6b1bb8177808132b9e0cdcd011da41",
                 "referrer": "https:\/\/socolivev.co\/",
                 "user_agent": ""
             },
             {
                 "title": "Soco SD",
-                "url": "https:\/\/pull.niur.live\/live\/stream-9912099_lsd.m3u8?txSecret=26b31da7d8db6a71656b073d7c44a519&txTime=68a48a60",
+                "url": "https:\/\/pull.niur.live\/live\/stream-9912099_lsd.m3u8?txSecret=e6582024c7959aeabb0f2bc6997dd82e&txTime=68a49165",
                 "referrer": "https:\/\/socolivev.co\/",
                 "user_agent": ""
             },
             {
                 "title": "Soco HD",
-                "url": "https:\/\/pull.niur.live\/live\/stream-9912099_lhd.m3u8?txSecret=4a419e8138602ee3dcbba89b1f42de73&txTime=68a48a60",
+                "url": "https:\/\/pull.niur.live\/live\/stream-9912099_lhd.m3u8?txSecret=aa6e61ae61c03891ab04ff271e75307a&txTime=68a49165",
                 "referrer": "https:\/\/socolivev.co\/",
                 "user_agent": ""
             },
@@ -50,7 +50,7 @@
         ]
     },
     {
-        "is_live": false,
+        "is_live": true,
         "date": "2025-08-19T09:00:00Z",
         "time": "",
         "id": null,
@@ -60,7 +60,32 @@
         "away_team": "Thitsar Arman FC",
         "away_image": "https:\/\/sta.vnres.co\/file\/common\/20250816\/7d465daa8240fc41af910ab73e40da8d.png",
         "league": "MYA D1",
-        "links": []
+        "links": [
+            {
+                "title": "Soco SD",
+                "url": "https:\/\/pull.niues.live\/live\/stream-372746_lsd.m3u8?auth_key=1755597589-0-0-0086bb895055432d4a19bfd11b5f90d7",
+                "referrer": "https:\/\/socolivev.co\/",
+                "user_agent": ""
+            },
+            {
+                "title": "Soco HD",
+                "url": "https:\/\/pull.niues.live\/live\/stream-372746_lhd.m3u8?auth_key=1755597589-0-0-35d50477fc85034f96510e9106002890",
+                "referrer": "https:\/\/socolivev.co\/",
+                "user_agent": ""
+            },
+            {
+                "title": "Soco SD",
+                "url": "https:\/\/pull.niur.live\/live\/stream-532081_lsd.m3u8?txSecret=53ef2d49f281dc62554c64e0fad4b417&txTime=68a49166",
+                "referrer": "https:\/\/socolivev.co\/",
+                "user_agent": ""
+            },
+            {
+                "title": "Soco HD",
+                "url": "https:\/\/pull.niur.live\/live\/stream-532081_lhd.m3u8?txSecret=efb02b59a4ee898cd3e6b0619bcf27b7&txTime=68a49166",
+                "referrer": "https:\/\/socolivev.co\/",
+                "user_agent": ""
+            }
+        ]
     },
     {
         "is_live": false,
@@ -904,19 +929,6 @@
         "home_image": "https:\/\/sta.vnres.co\/file\/common\/20250816\/a95028b00992b5fa2c33eac42e3a9cdb.png",
         "away_team": "Academico Viseu U23",
         "away_image": "https:\/\/sta.vnres.co\/file\/common\/20250816\/557645aa8fe48fd550fe2a2255c1adcd.png",
-        "league": "POR LRU23",
-        "links": []
-    },
-    {
-        "is_live": false,
-        "date": "2025-08-20T15:00:00Z",
-        "time": "",
-        "id": null,
-        "logo": "",
-        "home_team": "Leixoes U23",
-        "home_image": "https:\/\/sta.vnres.co\/file\/common\/20250816\/62b893a83ef9a7cd8c7e511722cc46e5.png",
-        "away_team": "Famalicao U23",
-        "away_image": "https:\/\/sta.vnres.co\/file\/common\/20250816\/c26ae9376d16a7491b45cdf1fcaf6a57.png",
         "league": "POR LRU23",
         "links": []
     },
