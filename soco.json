@@ -1,6 +1,6 @@
 [
     {
-        "is_live": false,
+        "is_live": true,
         "date": "2025-08-21T08:00:00Z",
         "time": "",
         "id": null,
@@ -10,10 +10,59 @@
         "away_team": "Changnyeong (w)",
         "away_image": "https:\/\/sta.vnres.co\/file\/common\/20250818\/e3e8f112c5b5643277976d756eb989c9.png",
         "league": "KOR WD1",
-        "links": []
+        "links": [
+            {
+                "title": "Soco SD",
+                "url": "https:\/\/pull.niues.live\/live\/stream-327159_lsd.m3u8?auth_key=1755766789-0-0-5a42a099f6a24a7aed0084241664b4c4",
+                "referrer": "https:\/\/socolivev.co\/",
+                "user_agent": ""
+            },
+            {
+                "title": "Soco HD",
+                "url": "https:\/\/pull.niues.live\/live\/stream-327159_lhd.m3u8?auth_key=1755766789-0-0-1f42b433d73e6a14139cd6958b40e7db",
+                "referrer": "https:\/\/socolivev.co\/",
+                "user_agent": ""
+            },
+            {
+                "title": "Soco SD",
+                "url": "https:\/\/pull.niues.live\/live\/stream-9912108_lsd.m3u8?auth_key=1755766789-0-0-c059c5ba764b72b348fdc7b7ce1b6b78",
+                "referrer": "https:\/\/socolivev.co\/",
+                "user_agent": ""
+            },
+            {
+                "title": "Soco HD",
+                "url": "https:\/\/pull.niues.live\/live\/stream-9912108_lhd.m3u8?auth_key=1755766789-0-0-d6f48fc04e74ccf8ce494b90bf370bb8",
+                "referrer": "https:\/\/socolivev.co\/",
+                "user_agent": ""
+            },
+            {
+                "title": "Soco SD",
+                "url": "https:\/\/pull.niur.live\/live\/stream-511367_lsd.m3u8?txSecret=3ab0719b7d9edbd8ea5ad6f920d1263b&txTime=68a72655",
+                "referrer": "https:\/\/socolivev.co\/",
+                "user_agent": ""
+            },
+            {
+                "title": "Soco HD",
+                "url": "https:\/\/pull.niur.live\/live\/stream-511367_lhd.m3u8?txSecret=bf71dd8b153ef93eafcb98b6e30a6e56&txTime=68a72655",
+                "referrer": "https:\/\/socolivev.co\/",
+                "user_agent": ""
+            },
+            {
+                "title": "Soco SD",
+                "url": "https:\/\/pull.niues.live\/live\/stream-9912104_lsd.m3u8?auth_key=1755766789-0-0-80c7431f92f2a11bf3bc210a9d99eaaa",
+                "referrer": "https:\/\/socolivev.co\/",
+                "user_agent": ""
+            },
+            {
+                "title": "Soco HD",
+                "url": "https:\/\/pull.niues.live\/live\/stream-9912104_lhd.m3u8?auth_key=1755766789-0-0-3f73c1b7dcacaf22c4e79e82f1677871",
+                "referrer": "https:\/\/socolivev.co\/",
+                "user_agent": ""
+            }
+        ]
     },
     {
-        "is_live": false,
+        "is_live": true,
         "date": "2025-08-21T08:00:00Z",
         "time": "",
         "id": null,
@@ -23,7 +72,44 @@
         "away_team": "Ilagan Isabela Cowboys",
         "away_image": "https:\/\/sta.vnres.co\/file\/common\/20250819\/292f16ac4f0a37fab0f197ad3a2e06fd.png",
         "league": "MPBL",
-        "links": []
+        "links": [
+            {
+                "title": "Soco SD",
+                "url": "https:\/\/pull.niues.live\/live\/stream-9912112_lsd.m3u8?auth_key=1755766789-0-0-71616f770ba39ffa439793e1d6dba7a3",
+                "referrer": "https:\/\/socolivev.co\/",
+                "user_agent": ""
+            },
+            {
+                "title": "Soco HD",
+                "url": "https:\/\/pull.niues.live\/live\/stream-9912112_lhd.m3u8?auth_key=1755766789-0-0-96c9afc705d4d13e58c6e4314f368c15",
+                "referrer": "https:\/\/socolivev.co\/",
+                "user_agent": ""
+            },
+            {
+                "title": "Soco SD",
+                "url": "https:\/\/stream-flv.dfsfe.top\/lives\/9912111-480p.m3u8",
+                "referrer": "https:\/\/socolivev.co\/",
+                "user_agent": ""
+            },
+            {
+                "title": "Soco HD",
+                "url": "https:\/\/stream-flv.dfsfe.top\/lives\/9912111-720p.m3u8",
+                "referrer": "https:\/\/socolivev.co\/",
+                "user_agent": ""
+            },
+            {
+                "title": "Soco SD",
+                "url": "https:\/\/pull.niur.live\/live\/stream-289098_lsd.m3u8?txSecret=4a0c85837a43917906d11b5cedf8b702&txTime=68a72655",
+                "referrer": "https:\/\/socolivev.co\/",
+                "user_agent": ""
+            },
+            {
+                "title": "Soco HD",
+                "url": "https:\/\/pull.niur.live\/live\/stream-289098_lhd.m3u8?txSecret=3ccc8f2726472750265ea40a22661a61&txTime=68a72655",
+                "referrer": "https:\/\/socolivev.co\/",
+                "user_agent": ""
+            }
+        ]
     },
     {
         "is_live": false,
@@ -122,6 +208,19 @@
         "time": "",
         "id": null,
         "logo": "",
+        "home_team": "Shan United",
+        "home_image": "https:\/\/sta.vnres.co\/file\/common\/20250820\/d4527a30e29c03a69c3c9330fab56311.png",
+        "away_team": "Svay Rieng FC",
+        "away_image": "https:\/\/sta.vnres.co\/file\/common\/20250820\/bf8509d7af8d288f93775c4fe2add69a.png",
+        "league": "ASEAN CC",
+        "links": []
+    },
+    {
+        "is_live": false,
+        "date": "2025-08-21T11:30:00Z",
+        "time": "",
+        "id": null,
+        "logo": "",
         "home_team": "Hebei Xianglan Kylins",
         "home_image": "https:\/\/sta.vnres.co\/file\/common\/20250819\/f6fba686c92089ce42b8712040b321ad.png",
         "away_team": "Hunan Jinjian Rice Industry",
@@ -153,19 +252,6 @@
         "away_team": "Yassy Turkistan",
         "away_image": "https:\/\/sta.vnres.co\/file\/common\/20250818\/b8967fd5c2124df048eee7099361f782.png",
         "league": "KAZ D1",
-        "links": []
-    },
-    {
-        "is_live": false,
-        "date": "2025-08-21T12:00:00Z",
-        "time": "",
-        "id": null,
-        "logo": "",
-        "home_team": "Shan United",
-        "home_image": "https:\/\/sta.vnres.co\/file\/common\/20250820\/d4527a30e29c03a69c3c9330fab56311.png",
-        "away_team": "Svay Rieng FC",
-        "away_image": "https:\/\/sta.vnres.co\/file\/common\/20250820\/bf8509d7af8d288f93775c4fe2add69a.png",
-        "league": "ASEAN CC",
         "links": []
     },
     {
