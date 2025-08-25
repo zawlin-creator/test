@@ -1,55 +1,5 @@
 [
     {
-        "is_live": true,
-        "date": "2025-08-25T08:00:00Z",
-        "time": "",
-        "id": null,
-        "logo": "",
-        "home_team": "Manila Batang Quiapo",
-        "home_image": "https:\/\/sta.vnres.co\/file\/common\/20250823\/d0dab8503d4486733b5aea277dc20c28.png",
-        "away_team": "Bulacan Kuyas",
-        "away_image": "https:\/\/sta.vnres.co\/file\/common\/20250823\/a25ee1c77f786832d9fb6bff8258de1d.png",
-        "league": "MPBL",
-        "links": [
-            {
-                "title": "Soco SD",
-                "url": "https:\/\/pull.niues.live\/live\/stream-9912106_lsd.m3u8?auth_key=1756114189-0-0-2e833ee3f950d544b87954993360b507",
-                "referrer": "https:\/\/socolivev.co\/",
-                "user_agent": ""
-            },
-            {
-                "title": "Soco HD",
-                "url": "https:\/\/pull.niues.live\/live\/stream-9912106_lhd.m3u8?auth_key=1756114189-0-0-eb309abac64a7fc01d955b9d48683334",
-                "referrer": "https:\/\/socolivev.co\/",
-                "user_agent": ""
-            },
-            {
-                "title": "Soco SD",
-                "url": "https:\/\/stream-flv.dfsfe.top\/lives\/9912111-480p.m3u8",
-                "referrer": "https:\/\/socolivev.co\/",
-                "user_agent": ""
-            },
-            {
-                "title": "Soco HD",
-                "url": "https:\/\/stream-flv.dfsfe.top\/lives\/9912111-720p.m3u8",
-                "referrer": "https:\/\/socolivev.co\/",
-                "user_agent": ""
-            },
-            {
-                "title": "Soco SD",
-                "url": "https:\/\/pull.niur.live\/live\/stream-9912099_lsd.m3u8?txSecret=d55454c666d155bdc50e333ec2ef653b&txTime=68ac735e",
-                "referrer": "https:\/\/socolivev.co\/",
-                "user_agent": ""
-            },
-            {
-                "title": "Soco HD",
-                "url": "https:\/\/pull.niur.live\/live\/stream-9912099_lhd.m3u8?txSecret=9b6052203273f93b76362ddfdc2f6573&txTime=68ac735e",
-                "referrer": "https:\/\/socolivev.co\/",
-                "user_agent": ""
-            }
-        ]
-    },
-    {
         "is_live": false,
         "date": "2025-08-25T10:00:00Z",
         "time": "",
