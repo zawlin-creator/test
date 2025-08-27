@@ -150,7 +150,7 @@
         ]
     },
     {
-        "is_live": false,
+        "is_live": true,
         "date": "2025-08-27T22:30:00Z",
         "time": "",
         "id": null,
@@ -160,7 +160,56 @@
         "away_team": "Cruzeiro Esporte Clube",
         "away_image": "https:\/\/sta.vnres.co\/file\/common\/20250824\/56668c73a40fa688f7d99e8b57ca3a1d.png",
         "league": "BRA CUP",
-        "links": []
+        "links": [
+            {
+                "title": "Soco SD",
+                "url": "https:\/\/pull.niur.live\/live\/stream-459401_lsd.m3u8?txSecret=33cbeadb80b3c03f83d5c934dc73b620&txTime=68afdb3e",
+                "referrer": "https:\/\/socolivev.co\/",
+                "user_agent": ""
+            },
+            {
+                "title": "Soco HD",
+                "url": "https:\/\/pull.niur.live\/live\/stream-459401_lhd.m3u8?txSecret=00baf3cedc4f4310b5f7c3db7a56234b&txTime=68afdb3e",
+                "referrer": "https:\/\/socolivev.co\/",
+                "user_agent": ""
+            },
+            {
+                "title": "Soco SD",
+                "url": "https:\/\/pull.niues.live\/live\/stream-313971_lsd.m3u8?auth_key=1756337390-0-0-a5e2861228c860e33683fcfc78257af6",
+                "referrer": "https:\/\/socolivev.co\/",
+                "user_agent": ""
+            },
+            {
+                "title": "Soco HD",
+                "url": "https:\/\/pull.niues.live\/live\/stream-313971_lhd.m3u8?auth_key=1756337390-0-0-ab5564cd953ef34725491c37a9435c92",
+                "referrer": "https:\/\/socolivev.co\/",
+                "user_agent": ""
+            },
+            {
+                "title": "Soco SD",
+                "url": "https:\/\/pull.niues.live\/live\/stream-503286_lsd.m3u8?auth_key=1756337390-0-0-193e6156d15b832499350cf05f61ff9b",
+                "referrer": "https:\/\/socolivev.co\/",
+                "user_agent": ""
+            },
+            {
+                "title": "Soco HD",
+                "url": "https:\/\/pull.niues.live\/live\/stream-503286_lhd.m3u8?auth_key=1756337390-0-0-e4aac63fe401517b1ac5e005aac32a44",
+                "referrer": "https:\/\/socolivev.co\/",
+                "user_agent": ""
+            },
+            {
+                "title": "Soco SD",
+                "url": "https:\/\/pull.niur.live\/live\/stream-283501_lsd.m3u8?txSecret=6f131a66625bfdc43f41f3bbf31161a2&txTime=68afdb3e",
+                "referrer": "https:\/\/socolivev.co\/",
+                "user_agent": ""
+            },
+            {
+                "title": "Soco HD",
+                "url": "https:\/\/pull.niur.live\/live\/stream-283501_lhd.m3u8?txSecret=aa25b7c0f288ebcb375a8e8d9d15ff90&txTime=68afdb3e",
+                "referrer": "https:\/\/socolivev.co\/",
+                "user_agent": ""
+            }
+        ]
     },
     {
         "is_live": false,
