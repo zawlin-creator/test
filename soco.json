@@ -13,13 +13,13 @@
         "links": [
             {
                 "title": "Soco SD",
-                "url": "https:\/\/pull.niues.live\/live\/stream-9912112_lsd.m3u8?auth_key=1756286990-0-0-99b45f37ec042e5c06ca7b7bb087bf21",
+                "url": "https:\/\/pull.niues.live\/live\/stream-9912112_lsd.m3u8?auth_key=1756288790-0-0-99eb4cbfd6bf36e153e999a35330081b",
                 "referrer": "https:\/\/socolivev.co\/",
                 "user_agent": ""
             },
             {
                 "title": "Soco HD",
-                "url": "https:\/\/pull.niues.live\/live\/stream-9912112_lhd.m3u8?auth_key=1756286990-0-0-64c1d70a03663febca8a856ebe882e1a",
+                "url": "https:\/\/pull.niues.live\/live\/stream-9912112_lhd.m3u8?auth_key=1756288790-0-0-f7b9b335891662c2d753bc16c9aeab2a",
                 "referrer": "https:\/\/socolivev.co\/",
                 "user_agent": ""
             },
@@ -37,13 +37,13 @@
             },
             {
                 "title": "Soco SD",
-                "url": "https:\/\/pull.niues.live\/live\/stream-9912106_lsd.m3u8?auth_key=1756286990-0-0-f54fb0ba131ba9d6dff2d74b67edfda0",
+                "url": "https:\/\/pull.niues.live\/live\/stream-9912106_lsd.m3u8?auth_key=1756288790-0-0-042537276b7758ceea4df074b032ec45",
                 "referrer": "https:\/\/socolivev.co\/",
                 "user_agent": ""
             },
             {
                 "title": "Soco HD",
-                "url": "https:\/\/pull.niues.live\/live\/stream-9912106_lhd.m3u8?auth_key=1756286990-0-0-b3145ab28e6015ee67a2a0ae7f2c716f",
+                "url": "https:\/\/pull.niues.live\/live\/stream-9912106_lhd.m3u8?auth_key=1756288790-0-0-ee116592f24e33ce96d53124c0f71cb4",
                 "referrer": "https:\/\/socolivev.co\/",
                 "user_agent": ""
             }
@@ -783,6 +783,19 @@
         "time": "",
         "id": null,
         "logo": "",
+        "home_team": "SD Family",
+        "home_image": "https:\/\/sta.vnres.co\/file\/common\/20250824\/68bf878c8962066c68c7d924516ebc37.png",
+        "away_team": "Yassy Turkistan",
+        "away_image": "https:\/\/sta.vnres.co\/file\/common\/20250824\/5e231b0745894bcca0dae918c5e1b38e.png",
+        "league": "KAZ D1",
+        "links": []
+    },
+    {
+        "is_live": false,
+        "date": "2025-08-28T10:00:00Z",
+        "time": "",
+        "id": null,
+        "logo": "",
         "home_team": "Cebu Classic",
         "home_image": "https:\/\/sta.vnres.co\/file\/common\/20250826\/dc79ec0c6d1fb5731048bfd8740fad04.png",
         "away_team": "Zamboanga Sikat",
@@ -818,6 +831,19 @@
     },
     {
         "is_live": false,
+        "date": "2025-08-28T11:00:00Z",
+        "time": "",
+        "id": null,
+        "logo": "",
+        "home_team": "FK Aktobe II",
+        "home_image": "https:\/\/sta.vnres.co\/file\/common\/20250824\/9c6eae6451145687fe3dc21ff7d37798.png",
+        "away_team": "FC Jetisay",
+        "away_image": "https:\/\/sta.vnres.co\/file\/common\/20250824\/0cf76b2eb0c50c94e6ddc5ba34dcf087.png",
+        "league": "KAZ D1",
+        "links": []
+    },
+    {
+        "is_live": false,
         "date": "2025-08-28T11:30:00Z",
         "time": "",
         "id": null,
@@ -839,19 +865,6 @@
         "home_image": "https:\/\/sta.vnres.co\/file\/common\/20250824\/387af43969c9c19c47957b347aa95c61.png",
         "away_team": "AKAS Almaty",
         "away_image": "https:\/\/sta.vnres.co\/file\/common\/20250824\/ceb2b7ddb3dd3369475eb4e8e35d196f.png",
-        "league": "KAZ D1",
-        "links": []
-    },
-    {
-        "is_live": false,
-        "date": "2025-08-28T12:00:00Z",
-        "time": "",
-        "id": null,
-        "logo": "",
-        "home_team": "FK Aktobe II",
-        "home_image": "https:\/\/sta.vnres.co\/file\/common\/20250824\/9c6eae6451145687fe3dc21ff7d37798.png",
-        "away_team": "FC Jetisay",
-        "away_image": "https:\/\/sta.vnres.co\/file\/common\/20250824\/0cf76b2eb0c50c94e6ddc5ba34dcf087.png",
         "league": "KAZ D1",
         "links": []
     },
@@ -930,19 +943,6 @@
         "home_image": "https:\/\/sta.vnres.co\/file\/common\/20250824\/b47a8b2f064aa10ff2eb0cac5726ff9e.png",
         "away_team": "FK Kaspyi Aktau",
         "away_image": "https:\/\/sta.vnres.co\/file\/common\/20250824\/e82628c13e67bd55a4bc9507439c0b88.png",
-        "league": "KAZ D1",
-        "links": []
-    },
-    {
-        "is_live": false,
-        "date": "2025-08-28T14:00:00Z",
-        "time": "",
-        "id": null,
-        "logo": "",
-        "home_team": "SD Family",
-        "home_image": "https:\/\/sta.vnres.co\/file\/common\/20250824\/68bf878c8962066c68c7d924516ebc37.png",
-        "away_team": "Yassy Turkistan",
-        "away_image": "https:\/\/sta.vnres.co\/file\/common\/20250824\/5e231b0745894bcca0dae918c5e1b38e.png",
         "league": "KAZ D1",
         "links": []
     },
