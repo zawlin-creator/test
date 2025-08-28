@@ -1,6 +1,6 @@
 [
     {
-        "is_live": false,
+        "is_live": true,
         "date": "2025-08-28T07:30:00Z",
         "time": "",
         "id": null,
@@ -10,7 +10,44 @@
         "away_team": "Sydney (Aus)",
         "away_image": "https:\/\/sta.vnres.co\/file\/common\/20250826\/35641afb467846bfea533acba8548c8c.png",
         "league": "WCF",
-        "links": []
+        "links": [
+            {
+                "title": "Soco SD",
+                "url": "https:\/\/pull.niues.live\/live\/stream-9912106_lsd.m3u8?auth_key=1756369790-0-0-2f0ccb66c08537f143f4e2a7e7bd6444",
+                "referrer": "https:\/\/socolivev.co\/",
+                "user_agent": ""
+            },
+            {
+                "title": "Soco HD",
+                "url": "https:\/\/pull.niues.live\/live\/stream-9912106_lhd.m3u8?auth_key=1756369790-0-0-bbe9d60119d9517cf3427de5c6309dfe",
+                "referrer": "https:\/\/socolivev.co\/",
+                "user_agent": ""
+            },
+            {
+                "title": "Soco SD",
+                "url": "https:\/\/pull.niur.live\/live\/stream-9912099_lsd.m3u8?txSecret=2b3813ad7a8d25eeb3600dca13983204&txTime=68b059ce",
+                "referrer": "https:\/\/socolivev.co\/",
+                "user_agent": ""
+            },
+            {
+                "title": "Soco HD",
+                "url": "https:\/\/pull.niur.live\/live\/stream-9912099_lhd.m3u8?txSecret=b01e2920e79cf5a64b5e1745ce8e06e4&txTime=68b059ce",
+                "referrer": "https:\/\/socolivev.co\/",
+                "user_agent": ""
+            },
+            {
+                "title": "Soco SD",
+                "url": "https:\/\/pull.niues.live\/live\/stream-9912112_lsd.m3u8?auth_key=1756369790-0-0-a9f1e6371cc8756045572279359536e5",
+                "referrer": "https:\/\/socolivev.co\/",
+                "user_agent": ""
+            },
+            {
+                "title": "Soco HD",
+                "url": "https:\/\/pull.niues.live\/live\/stream-9912112_lhd.m3u8?auth_key=1756369790-0-0-ca3731d2bdefde2f9bdf64ec696247a8",
+                "referrer": "https:\/\/socolivev.co\/",
+                "user_agent": ""
+            }
+        ]
     },
     {
         "is_live": false,
