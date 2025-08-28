@@ -1,130 +1,6 @@
 [
     {
         "is_live": true,
-        "date": "2025-08-28T02:00:00Z",
-        "time": "",
-        "id": null,
-        "logo": "",
-        "home_team": "CD Olimpia",
-        "home_image": "https:\/\/sta.vnres.co\/file\/common\/20250824\/eb137708c480dc57165763db24fbe0f8.png",
-        "away_team": "Xelaju MC",
-        "away_image": "https:\/\/sta.vnres.co\/file\/common\/20250824\/f5177653d6115ab4c27d9f0c7e37738f.png",
-        "league": "CNCF CACup",
-        "links": [
-            {
-                "title": "Soco SD",
-                "url": "https:\/\/pull.niur.live\/live\/stream-344370_lsd.m3u8?txSecret=8316d299f73000942ba567a8e12aaa22&txTime=68b0218e",
-                "referrer": "https:\/\/socolivev.co\/",
-                "user_agent": ""
-            },
-            {
-                "title": "Soco HD",
-                "url": "https:\/\/pull.niur.live\/live\/stream-344370_lhd.m3u8?txSecret=e3f72e55033e82699a0ad7115a727c05&txTime=68b0218e",
-                "referrer": "https:\/\/socolivev.co\/",
-                "user_agent": ""
-            },
-            {
-                "title": "Soco SD",
-                "url": "https:\/\/pull.niur.live\/live\/stream-462413_lsd.m3u8?txSecret=dc49c3e93e0a291a49428778177c50b9&txTime=68b0218e",
-                "referrer": "https:\/\/socolivev.co\/",
-                "user_agent": ""
-            },
-            {
-                "title": "Soco HD",
-                "url": "https:\/\/pull.niur.live\/live\/stream-462413_lhd.m3u8?txSecret=62ffc206e63c1c53b4d35a4c167d69a3&txTime=68b0218e",
-                "referrer": "https:\/\/socolivev.co\/",
-                "user_agent": ""
-            },
-            {
-                "title": "Soco SD",
-                "url": "https:\/\/pull.niues.live\/live\/stream-9912091_lsd.m3u8?auth_key=1756355390-0-0-11ade349d69d75aa7122242338d818ac",
-                "referrer": "https:\/\/socolivev.co\/",
-                "user_agent": ""
-            },
-            {
-                "title": "Soco HD",
-                "url": "https:\/\/pull.niues.live\/live\/stream-9912091_lhd.m3u8?auth_key=1756355390-0-0-b17848c0a6e918ed61558fdec75b0a78",
-                "referrer": "https:\/\/socolivev.co\/",
-                "user_agent": ""
-            },
-            {
-                "title": "Soco SD",
-                "url": "https:\/\/pull.niues.live\/live\/stream-313971_lsd.m3u8?auth_key=1756355390-0-0-81367ba90e1ddcfdd996b8883c46e228",
-                "referrer": "https:\/\/socolivev.co\/",
-                "user_agent": ""
-            },
-            {
-                "title": "Soco HD",
-                "url": "https:\/\/pull.niues.live\/live\/stream-313971_lhd.m3u8?auth_key=1756355390-0-0-ff7fefdcadfb9fbf8a582acbe453760a",
-                "referrer": "https:\/\/socolivev.co\/",
-                "user_agent": ""
-            }
-        ]
-    },
-    {
-        "is_live": true,
-        "date": "2025-08-28T02:00:00Z",
-        "time": "",
-        "id": null,
-        "logo": "",
-        "home_team": "Real Esteli",
-        "home_image": "https:\/\/sta.vnres.co\/file\/common\/20250824\/d850e0fbb2f26cd1048735745f500e3c.png",
-        "away_team": "Aguila",
-        "away_image": "https:\/\/sta.vnres.co\/file\/common\/20250824\/483acbcf5db55b369c3b5b741a8bc8ff.png",
-        "league": "CNCF CACup",
-        "links": [
-            {
-                "title": "Soco SD",
-                "url": "https:\/\/pull.niues.live\/live\/stream-9912105_lsd.m3u8?auth_key=1756355390-0-0-5b02c2335ac990038e6009869e2cf6a2",
-                "referrer": "https:\/\/socolivev.co\/",
-                "user_agent": ""
-            },
-            {
-                "title": "Soco HD",
-                "url": "https:\/\/pull.niues.live\/live\/stream-9912105_lhd.m3u8?auth_key=1756355390-0-0-7cbeda9bda99c1b743efe73c0c9402ef",
-                "referrer": "https:\/\/socolivev.co\/",
-                "user_agent": ""
-            },
-            {
-                "title": "Soco SD",
-                "url": "https:\/\/pull.niur.live\/live\/stream-9912050_lsd.m3u8?txSecret=2ba95813255bf56c44ff447b20d0fac5&txTime=68b0218e",
-                "referrer": "https:\/\/socolivev.co\/",
-                "user_agent": ""
-            },
-            {
-                "title": "Soco HD",
-                "url": "https:\/\/pull.niur.live\/live\/stream-9912050_lhd.m3u8?txSecret=025a0952cdb8972b1871a9d44a1676b6&txTime=68b0218e",
-                "referrer": "https:\/\/socolivev.co\/",
-                "user_agent": ""
-            },
-            {
-                "title": "Soco SD",
-                "url": "https:\/\/pull.niur.live\/live\/stream-356042_lsd.m3u8?txSecret=d6a3ede58de491979259cb3a38afc339&txTime=68b0218e",
-                "referrer": "https:\/\/socolivev.co\/",
-                "user_agent": ""
-            },
-            {
-                "title": "Soco HD",
-                "url": "https:\/\/pull.niur.live\/live\/stream-356042_lhd.m3u8?txSecret=0ee4166e9a8151012d1e61967b53ef14&txTime=68b0218e",
-                "referrer": "https:\/\/socolivev.co\/",
-                "user_agent": ""
-            },
-            {
-                "title": "Soco SD",
-                "url": "https:\/\/pull.niues.live\/live\/stream-9912043_lsd.m3u8?auth_key=1756355390-0-0-bcde0d53685221ccd68419b757ef18c5",
-                "referrer": "https:\/\/socolivev.co\/",
-                "user_agent": ""
-            },
-            {
-                "title": "Soco HD",
-                "url": "https:\/\/pull.niues.live\/live\/stream-9912043_lhd.m3u8?auth_key=1756355390-0-0-991aa2aead2649949172f0a55d14e797",
-                "referrer": "https:\/\/socolivev.co\/",
-                "user_agent": ""
-            }
-        ]
-    },
-    {
-        "is_live": true,
         "date": "2025-08-28T02:15:00Z",
         "time": "",
         "id": null,
@@ -149,25 +25,25 @@
             },
             {
                 "title": "Soco SD",
-                "url": "https:\/\/pull.niur.live\/live\/stream-289098_lsd.m3u8?txSecret=bca1e62ff9e53d195e93d27efaf2d8c4&txTime=68b0218e",
+                "url": "https:\/\/pull.niur.live\/live\/stream-289098_lsd.m3u8?txSecret=a103aabe093ed1e77c8fd8efdcdb66da&txTime=68b02896",
                 "referrer": "https:\/\/socolivev.co\/",
                 "user_agent": ""
             },
             {
                 "title": "Soco HD",
-                "url": "https:\/\/pull.niur.live\/live\/stream-289098_lhd.m3u8?txSecret=e9db44b4efdabc10da4f4bb7494bf1d4&txTime=68b0218e",
+                "url": "https:\/\/pull.niur.live\/live\/stream-289098_lhd.m3u8?txSecret=492fbe149aebcb750f70af00ca096c9a&txTime=68b02896",
                 "referrer": "https:\/\/socolivev.co\/",
                 "user_agent": ""
             },
             {
                 "title": "Soco SD",
-                "url": "https:\/\/pull.niues.live\/live\/stream-9912106_lsd.m3u8?auth_key=1756355390-0-0-eb5b5fa81829ac6da946d2ff8f139cd8",
+                "url": "https:\/\/pull.niues.live\/live\/stream-9912106_lsd.m3u8?auth_key=1756357190-0-0-e17909eae03ef530cac80f9e1ba165ca",
                 "referrer": "https:\/\/socolivev.co\/",
                 "user_agent": ""
             },
             {
                 "title": "Soco HD",
-                "url": "https:\/\/pull.niues.live\/live\/stream-9912106_lhd.m3u8?auth_key=1756355390-0-0-4b88a54363c117a392a776bcc28325f3",
+                "url": "https:\/\/pull.niues.live\/live\/stream-9912106_lhd.m3u8?auth_key=1756357190-0-0-e03db434d03e8be463d394671e632177",
                 "referrer": "https:\/\/socolivev.co\/",
                 "user_agent": ""
             }
@@ -187,73 +63,73 @@
         "links": [
             {
                 "title": "Soco SD",
-                "url": "https:\/\/pull.niur.live\/live\/stream-9912103_lsd.m3u8?txSecret=0e69e9e01da98a2577474ffb454fb872&txTime=68b0218e",
+                "url": "https:\/\/pull.niur.live\/live\/stream-9912103_lsd.m3u8?txSecret=a8ba651c874a90007455fdd79bde3dd7&txTime=68b02896",
                 "referrer": "https:\/\/socolivev.co\/",
                 "user_agent": ""
             },
             {
                 "title": "Soco HD",
-                "url": "https:\/\/pull.niur.live\/live\/stream-9912103_lhd.m3u8?txSecret=12957457eb0ee6ae26957c62f1f8868b&txTime=68b0218e",
+                "url": "https:\/\/pull.niur.live\/live\/stream-9912103_lhd.m3u8?txSecret=4639ce48daf1707085e77cef6bdc41e4&txTime=68b02896",
                 "referrer": "https:\/\/socolivev.co\/",
                 "user_agent": ""
             },
             {
                 "title": "Soco SD",
-                "url": "https:\/\/pull.niues.live\/live\/stream-327159_lsd.m3u8?auth_key=1756355390-0-0-adc961da8880b0a15b9cddaee37c9d32",
+                "url": "https:\/\/pull.niues.live\/live\/stream-327159_lsd.m3u8?auth_key=1756357190-0-0-df73865a0a94bda8d82ef3df7f6f7a74",
                 "referrer": "https:\/\/socolivev.co\/",
                 "user_agent": ""
             },
             {
                 "title": "Soco HD",
-                "url": "https:\/\/pull.niues.live\/live\/stream-327159_lhd.m3u8?auth_key=1756355390-0-0-ef49a2d062a0b5a82601398dce357006",
+                "url": "https:\/\/pull.niues.live\/live\/stream-327159_lhd.m3u8?auth_key=1756357190-0-0-360ecafbaa1d91f5e3d41c736cf19073",
                 "referrer": "https:\/\/socolivev.co\/",
                 "user_agent": ""
             },
             {
                 "title": "Soco SD",
-                "url": "https:\/\/pull.niues.live\/live\/stream-9912108_lsd.m3u8?auth_key=1756355390-0-0-bfaa0c74abe6a561e8f1339dee8cd9c0",
+                "url": "https:\/\/pull.niues.live\/live\/stream-9912108_lsd.m3u8?auth_key=1756357190-0-0-8e9707e7cdd62d9858eba2615c5d92bf",
                 "referrer": "https:\/\/socolivev.co\/",
                 "user_agent": ""
             },
             {
                 "title": "Soco HD",
-                "url": "https:\/\/pull.niues.live\/live\/stream-9912108_lhd.m3u8?auth_key=1756355390-0-0-e06e4e2570428ed5c2d8ed5b3057cc73",
+                "url": "https:\/\/pull.niues.live\/live\/stream-9912108_lhd.m3u8?auth_key=1756357190-0-0-9c9bf9f0aa5b6b67d517a061ebe6623c",
                 "referrer": "https:\/\/socolivev.co\/",
                 "user_agent": ""
             },
             {
                 "title": "Soco SD",
-                "url": "https:\/\/pull.niur.live\/live\/stream-414317_lsd.m3u8?txSecret=a9148336d6243d99896ac38ad75f81e2&txTime=68b0218e",
+                "url": "https:\/\/pull.niur.live\/live\/stream-414317_lsd.m3u8?txSecret=45ef5f59cb84b6baca5cc5fef3da59aa&txTime=68b02896",
                 "referrer": "https:\/\/socolivev.co\/",
                 "user_agent": ""
             },
             {
                 "title": "Soco HD",
-                "url": "https:\/\/pull.niur.live\/live\/stream-414317_lhd.m3u8?txSecret=82b3cdef41f60562333f83bca64cd52a&txTime=68b0218e",
+                "url": "https:\/\/pull.niur.live\/live\/stream-414317_lhd.m3u8?txSecret=d3f318c18f97ee7b512a99f0210881b1&txTime=68b02896",
                 "referrer": "https:\/\/socolivev.co\/",
                 "user_agent": ""
             },
             {
                 "title": "Soco SD",
-                "url": "https:\/\/pull.niur.live\/live\/stream-9912041_lsd.m3u8?txSecret=6cb578e52fbd19d545d9570f603f2a4c&txTime=68b0218e",
+                "url": "https:\/\/pull.niur.live\/live\/stream-9912041_lsd.m3u8?txSecret=d76198d69c7310bc8483da5288ace0c9&txTime=68b02896",
                 "referrer": "https:\/\/socolivev.co\/",
                 "user_agent": ""
             },
             {
                 "title": "Soco HD",
-                "url": "https:\/\/pull.niur.live\/live\/stream-9912041_lhd.m3u8?txSecret=560a75a7c1a4e82590017ec50cae7bb9&txTime=68b0218e",
+                "url": "https:\/\/pull.niur.live\/live\/stream-9912041_lhd.m3u8?txSecret=8b91ea503a0d13e51da8f4b2827d8bf8&txTime=68b02896",
                 "referrer": "https:\/\/socolivev.co\/",
                 "user_agent": ""
             },
             {
                 "title": "Soco SD",
-                "url": "https:\/\/pull.niur.live\/live\/stream-9912060_lsd.m3u8?txSecret=f6635ea6fa4c661e0759fb618785cbe9&txTime=68b0218e",
+                "url": "https:\/\/pull.niur.live\/live\/stream-9912060_lsd.m3u8?txSecret=6241e49d9e82e6ad592a494ce0921d45&txTime=68b02896",
                 "referrer": "https:\/\/socolivev.co\/",
                 "user_agent": ""
             },
             {
                 "title": "Soco HD",
-                "url": "https:\/\/pull.niur.live\/live\/stream-9912060_lhd.m3u8?txSecret=28f3560f2c796b2dcb8afe2b72baf5e0&txTime=68b0218e",
+                "url": "https:\/\/pull.niur.live\/live\/stream-9912060_lhd.m3u8?txSecret=fff04545445584c186cca1d747a110dc&txTime=68b02896",
                 "referrer": "https:\/\/socolivev.co\/",
                 "user_agent": ""
             }
