@@ -1,43 +1,5 @@
 [
     {
-        "is_live": true,
-        "date": "2025-09-04T02:15:00Z",
-        "time": "",
-        "id": null,
-        "logo": "",
-        "home_team": "Astros",
-        "home_image": "https:\/\/sta.vnres.co\/file\/common\/20250902\/30cc789948e8d0ff60aae10799f2ddcf.png",
-        "away_team": "Gambusinos",
-        "away_image": "https:\/\/sta.vnres.co\/file\/common\/20250902\/1acd58f821664329ff7a363e4470baff.jpg",
-        "league": "LNBP",
-        "links": [
-            {
-                "title": "Soco SD",
-                "url": "https:\/\/pull.niues.live\/live\/stream-9912106_lsd.m3u8?auth_key=1756961990-0-0-57402b67d158455905676ab3256f8144",
-                "referrer": "https:\/\/socolivev.co\/",
-                "user_agent": ""
-            },
-            {
-                "title": "Soco HD",
-                "url": "https:\/\/pull.niues.live\/live\/stream-9912106_lhd.m3u8?auth_key=1756961990-0-0-df83e8cfc481b9655a83008c888c4ee8",
-                "referrer": "https:\/\/socolivev.co\/",
-                "user_agent": ""
-            },
-            {
-                "title": "Soco SD",
-                "url": "https:\/\/stream-flv.dfsfe.top\/lives\/9912111-480p.m3u8",
-                "referrer": "https:\/\/socolivev.co\/",
-                "user_agent": ""
-            },
-            {
-                "title": "Soco HD",
-                "url": "https:\/\/stream-flv.dfsfe.top\/lives\/9912111-720p.m3u8",
-                "referrer": "https:\/\/socolivev.co\/",
-                "user_agent": ""
-            }
-        ]
-    },
-    {
         "is_live": false,
         "date": "2025-09-04T08:00:00Z",
         "time": "",
