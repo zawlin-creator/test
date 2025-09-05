@@ -61,13 +61,13 @@
             },
             {
                 "title": "Soco SD",
-                "url": "https:\/\/pull.niur.live\/live\/stream-9912102_lsd.m3u8?txSecret=5d486282e826ca699cdf21644a890260&txTime=68bba3b9",
+                "url": "https:\/\/pull.niur.live\/live\/stream-9912102_lsd.m3u8?txSecret=579b4f131c576a4438722de4ca547642&txTime=68bbaac1",
                 "referrer": "https:\/\/socolivev.co\/",
                 "user_agent": ""
             },
             {
                 "title": "Soco HD",
-                "url": "https:\/\/pull.niur.live\/live\/stream-9912102_lhd.m3u8?txSecret=65163f63d67af901a8f83dad46f9bcca&txTime=68bba3b9",
+                "url": "https:\/\/pull.niur.live\/live\/stream-9912102_lhd.m3u8?txSecret=d0889a03fe2da6834bf6a38ff5122f31&txTime=68bbaac1",
                 "referrer": "https:\/\/socolivev.co\/",
                 "user_agent": ""
             },
@@ -87,32 +87,6 @@
     },
     {
         "is_live": true,
-        "date": "2025-09-05T19:15:00Z",
-        "time": "",
-        "id": null,
-        "logo": "",
-        "home_team": "Cote d'Ivoire",
-        "home_image": "https:\/\/sta.vnres.co\/file\/common\/20250903\/cb4f9d8f988b4c901782ed2e9fcdf878.png",
-        "away_team": "Burundi",
-        "away_image": "https:\/\/sta.vnres.co\/file\/common\/20250903\/ab959ef362b7e202bd68e0e0352020d7.png",
-        "league": "WCPAF",
-        "links": [
-            {
-                "title": "Soco SD",
-                "url": "https:\/\/pull.niues.live\/live\/stream-515530_lsd.m3u8?auth_key=1757109609-0-0-87ed1c733aa4f7d4e657245d80d0a96e",
-                "referrer": "https:\/\/socolivev.co\/",
-                "user_agent": ""
-            },
-            {
-                "title": "Soco HD",
-                "url": "https:\/\/pull.niues.live\/live\/stream-515530_lhd.m3u8?auth_key=1757109609-0-0-631d7c2bf8df1f12a0e455d4b3472899",
-                "referrer": "https:\/\/socolivev.co\/",
-                "user_agent": ""
-            }
-        ]
-    },
-    {
-        "is_live": false,
         "date": "2025-09-05T21:30:00Z",
         "time": "",
         "id": null,
@@ -122,7 +96,32 @@
         "away_team": "Club Guaran\u00ed",
         "away_image": "https:\/\/sta.vnres.co\/file\/common\/20250903\/c722d7028c36190bf3b1e83f7be5c920.png",
         "league": "PAR D1",
-        "links": []
+        "links": [
+            {
+                "title": "Soco SD",
+                "url": "https:\/\/pull.niur.live\/live\/stream-485739_lsd.m3u8?txSecret=ff088b17ce3f580b8cf107bc53fda812&txTime=68bbaac1",
+                "referrer": "https:\/\/socolivev.co\/",
+                "user_agent": ""
+            },
+            {
+                "title": "Soco HD",
+                "url": "https:\/\/pull.niur.live\/live\/stream-485739_lhd.m3u8?txSecret=0ddcd11a13e68f0dec1f54f81bbee6df&txTime=68bbaac1",
+                "referrer": "https:\/\/socolivev.co\/",
+                "user_agent": ""
+            },
+            {
+                "title": "Soco SD",
+                "url": "https:\/\/pull.niues.live\/live\/stream-313971_lsd.m3u8?auth_key=1757111409-0-0-6fc0153892e24f5583c8ff0209c574c4",
+                "referrer": "https:\/\/socolivev.co\/",
+                "user_agent": ""
+            },
+            {
+                "title": "Soco HD",
+                "url": "https:\/\/pull.niues.live\/live\/stream-313971_lhd.m3u8?auth_key=1757111409-0-0-9821cf3e9c6e97572f434f3a40209353",
+                "referrer": "https:\/\/socolivev.co\/",
+                "user_agent": ""
+            }
+        ]
     },
     {
         "is_live": false,
