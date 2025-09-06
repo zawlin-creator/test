@@ -1,168 +1,6 @@
 [
     {
         "is_live": true,
-        "date": "2025-09-06T03:00:00Z",
-        "time": "",
-        "id": null,
-        "logo": "",
-        "home_team": "CSyD Dorados de Sinaloa",
-        "home_image": "https:\/\/sta.vnres.co\/file\/common\/20250903\/b83bfa3a92d83a3a25e1c4280c936366.png",
-        "away_team": "Irapuato",
-        "away_image": "https:\/\/sta.vnres.co\/file\/common\/20250903\/19b5acf45c2c096c2bf2746abb1bac96.png",
-        "league": "MEX D2",
-        "links": [
-            {
-                "title": "Soco SD",
-                "url": "https:\/\/pull.niur.live\/live\/stream-9912041_lsd.m3u8?txSecret=a296b35616763ac4d717e7287e4ec87a&txTime=68bc0d31",
-                "referrer": "https:\/\/socolivev.co\/",
-                "user_agent": ""
-            },
-            {
-                "title": "Soco HD",
-                "url": "https:\/\/pull.niur.live\/live\/stream-9912041_lhd.m3u8?txSecret=fdb84cb1952b56317553d7f86b21f214&txTime=68bc0d31",
-                "referrer": "https:\/\/socolivev.co\/",
-                "user_agent": ""
-            },
-            {
-                "title": "Soco SD",
-                "url": "https:\/\/pull.niues.live\/live\/stream-291277_lsd.m3u8?auth_key=1757136609-0-0-0bb92e7f119d2271e5de66e4d7a3ff24",
-                "referrer": "https:\/\/socolivev.co\/",
-                "user_agent": ""
-            },
-            {
-                "title": "Soco HD",
-                "url": "https:\/\/pull.niues.live\/live\/stream-291277_lhd.m3u8?auth_key=1757136609-0-0-92d51bf1d20205e05ac06eac7794a38e",
-                "referrer": "https:\/\/socolivev.co\/",
-                "user_agent": ""
-            },
-            {
-                "title": "Soco SD",
-                "url": "https:\/\/pull.niur.live\/live\/stream-9912009_lsd.m3u8?txSecret=0b3775117f3f12c9a7fda64c3ca0525f&txTime=68bc0d31",
-                "referrer": "https:\/\/socolivev.co\/",
-                "user_agent": ""
-            },
-            {
-                "title": "Soco HD",
-                "url": "https:\/\/pull.niur.live\/live\/stream-9912009_lhd.m3u8?txSecret=d40c9195638abb1dab34603942a722d1&txTime=68bc0d31",
-                "referrer": "https:\/\/socolivev.co\/",
-                "user_agent": ""
-            },
-            {
-                "title": "Soco SD",
-                "url": "https:\/\/pull.niues.live\/live\/stream-474421_lsd.m3u8?auth_key=1757136609-0-0-1d5f6429f1fbc1ea0ae2a187f97fb7c1",
-                "referrer": "https:\/\/socolivev.co\/",
-                "user_agent": ""
-            },
-            {
-                "title": "Soco HD",
-                "url": "https:\/\/pull.niues.live\/live\/stream-474421_lhd.m3u8?auth_key=1757136609-0-0-06071591ba617ddab706d4e6b6075cb2",
-                "referrer": "https:\/\/socolivev.co\/",
-                "user_agent": ""
-            }
-        ]
-    },
-    {
-        "is_live": true,
-        "date": "2025-09-06T03:00:00Z",
-        "time": "",
-        "id": null,
-        "logo": "",
-        "home_team": "Juarez FC Women",
-        "home_image": "https:\/\/sta.vnres.co\/file\/common\/20250903\/4f2926ebb2f8084442ee8b98f41b4864.png",
-        "away_team": "Pachuca Women",
-        "away_image": "https:\/\/sta.vnres.co\/file\/common\/20250903\/d75d4ce36097f16a2aa34e9eb79be6d9.png",
-        "league": "MEX WD1",
-        "links": [
-            {
-                "title": "Soco SD",
-                "url": "https:\/\/pull.niur.live\/live\/stream-9912050_lsd.m3u8?txSecret=fec4a3ab6630d9e828544da87b215710&txTime=68bc0d31",
-                "referrer": "https:\/\/socolivev.co\/",
-                "user_agent": ""
-            },
-            {
-                "title": "Soco HD",
-                "url": "https:\/\/pull.niur.live\/live\/stream-9912050_lhd.m3u8?txSecret=e09866dfba7ad4f7bc79c0e7bab32d7c&txTime=68bc0d31",
-                "referrer": "https:\/\/socolivev.co\/",
-                "user_agent": ""
-            },
-            {
-                "title": "Soco SD",
-                "url": "https:\/\/pull.niur.live\/live\/stream-9912100_lsd.m3u8?txSecret=bf25e654cff773cbde1c65b6572ed3af&txTime=68bc0d31",
-                "referrer": "https:\/\/socolivev.co\/",
-                "user_agent": ""
-            },
-            {
-                "title": "Soco HD",
-                "url": "https:\/\/pull.niur.live\/live\/stream-9912100_lhd.m3u8?txSecret=ceaf5bad0458fcb2c12e4fac6c54f712&txTime=68bc0d31",
-                "referrer": "https:\/\/socolivev.co\/",
-                "user_agent": ""
-            },
-            {
-                "title": "Soco SD",
-                "url": "https:\/\/pull.niues.live\/live\/stream-9912101_lsd.m3u8?auth_key=1757136609-0-0-38c238958691601df40943b69b8547ce",
-                "referrer": "https:\/\/socolivev.co\/",
-                "user_agent": ""
-            },
-            {
-                "title": "Soco HD",
-                "url": "https:\/\/pull.niues.live\/live\/stream-9912101_lhd.m3u8?auth_key=1757136609-0-0-2e996ac6f332f934e575ce1012268654",
-                "referrer": "https:\/\/socolivev.co\/",
-                "user_agent": ""
-            },
-            {
-                "title": "Soco SD",
-                "url": "https:\/\/pull.niues.live\/live\/stream-9912105_lsd.m3u8?auth_key=1757136609-0-0-735d9e26711b916844c5e828d0e8704a",
-                "referrer": "https:\/\/socolivev.co\/",
-                "user_agent": ""
-            },
-            {
-                "title": "Soco HD",
-                "url": "https:\/\/pull.niues.live\/live\/stream-9912105_lhd.m3u8?auth_key=1757136609-0-0-9df15ea721d5915980ef3633e3239101",
-                "referrer": "https:\/\/socolivev.co\/",
-                "user_agent": ""
-            }
-        ]
-    },
-    {
-        "is_live": true,
-        "date": "2025-09-06T03:00:00Z",
-        "time": "",
-        "id": null,
-        "logo": "",
-        "home_team": "Mazatlan FC Women",
-        "home_image": "https:\/\/sta.vnres.co\/file\/common\/20250903\/d4fe9ff0d51750f3599e8b4d0fe0e403.png",
-        "away_team": "Cruz Azul Women",
-        "away_image": "https:\/\/sta.vnres.co\/file\/common\/20250903\/9944ad4446a6fd9a9f234230e0c19da6.png",
-        "league": "MEX WD1",
-        "links": [
-            {
-                "title": "Soco SD",
-                "url": "https:\/\/pull.niur.live\/live\/stream-462413_lsd.m3u8?txSecret=1e2fa474701dc5110e33d0d9423d7a5b&txTime=68bc0d31",
-                "referrer": "https:\/\/socolivev.co\/",
-                "user_agent": ""
-            },
-            {
-                "title": "Soco HD",
-                "url": "https:\/\/pull.niur.live\/live\/stream-462413_lhd.m3u8?txSecret=70b9bdf9aba8a5a4392d6e5d8875a2ba&txTime=68bc0d31",
-                "referrer": "https:\/\/socolivev.co\/",
-                "user_agent": ""
-            },
-            {
-                "title": "Soco SD",
-                "url": "https:\/\/pull.niues.live\/live\/stream-9912097_lsd.m3u8?auth_key=1757136609-0-0-7398c7619975e052119e8708d2ddc64f",
-                "referrer": "https:\/\/socolivev.co\/",
-                "user_agent": ""
-            },
-            {
-                "title": "Soco HD",
-                "url": "https:\/\/pull.niues.live\/live\/stream-9912097_lhd.m3u8?auth_key=1757136609-0-0-721d3ff2265500c1b1f05c70497e0ec0",
-                "referrer": "https:\/\/socolivev.co\/",
-                "user_agent": ""
-            }
-        ]
-    },
-    {
-        "is_live": true,
         "date": "2025-09-06T04:30:00Z",
         "time": "",
         "id": null,
@@ -175,25 +13,25 @@
         "links": [
             {
                 "title": "Soco SD",
-                "url": "https:\/\/pull.niur.live\/live\/stream-308080_lsd.m3u8?txSecret=2f18acce7232b8ac7f37c53db31fb164&txTime=68bc0d31",
+                "url": "https:\/\/pull.niur.live\/live\/stream-308080_lsd.m3u8?txSecret=07e66d3941ed1581e2e92e5dbbe9e49b&txTime=68bc1439",
                 "referrer": "https:\/\/socolivev.co\/",
                 "user_agent": ""
             },
             {
                 "title": "Soco HD",
-                "url": "https:\/\/pull.niur.live\/live\/stream-308080_lhd.m3u8?txSecret=0883ff4efdbd90dbc5c41aa38baa13b6&txTime=68bc0d31",
+                "url": "https:\/\/pull.niur.live\/live\/stream-308080_lhd.m3u8?txSecret=9781bb3479123dee6525579798b19dec&txTime=68bc1439",
                 "referrer": "https:\/\/socolivev.co\/",
                 "user_agent": ""
             },
             {
                 "title": "Soco SD",
-                "url": "https:\/\/pull.niues.live\/live\/stream-534867_lsd.m3u8?auth_key=1757136611-0-0-27ec50daaf5f5033a05c9472d5fc81d2",
+                "url": "https:\/\/pull.niues.live\/live\/stream-534867_lsd.m3u8?auth_key=1757138414-0-0-30b69d20b78506c1d597de74dd53a078",
                 "referrer": "https:\/\/socolivev.co\/",
                 "user_agent": ""
             },
             {
                 "title": "Soco HD",
-                "url": "https:\/\/pull.niues.live\/live\/stream-534867_lhd.m3u8?auth_key=1757136611-0-0-56bdaf41c8095dd90317201debfc37f9",
+                "url": "https:\/\/pull.niues.live\/live\/stream-534867_lhd.m3u8?auth_key=1757138414-0-0-9882c4d23d6e02a73e88f3c69e1f9a3c",
                 "referrer": "https:\/\/socolivev.co\/",
                 "user_agent": ""
             }
@@ -213,32 +51,32 @@
         "links": [
             {
                 "title": "Soco SD",
-                "url": "https:\/\/pull.niues.live\/live\/stream-513394_lsd.m3u8?auth_key=1757136609-0-0-2e8b24ff52236345d55e42528b838846",
+                "url": "https:\/\/pull.niues.live\/live\/stream-513394_lsd.m3u8?auth_key=1757138409-0-0-e7790c6f4342eadedb12c02341a0ec3c",
                 "referrer": "https:\/\/socolivev.co\/",
                 "user_agent": ""
             },
             {
                 "title": "Soco HD",
-                "url": "https:\/\/pull.niues.live\/live\/stream-513394_lhd.m3u8?auth_key=1757136609-0-0-2da2df8cfcfccbe4aaedcf19a54b8d1d",
+                "url": "https:\/\/pull.niues.live\/live\/stream-513394_lhd.m3u8?auth_key=1757138409-0-0-6b338e309489cfa2bf1791c1e43504a4",
                 "referrer": "https:\/\/socolivev.co\/",
                 "user_agent": ""
             },
             {
                 "title": "Soco SD",
-                "url": "https:\/\/pull.niur.live\/live\/stream-500606_lsd.m3u8?txSecret=1488e2c67c7c51749ba1245e83bbca38&txTime=68bc0d31",
+                "url": "https:\/\/pull.niur.live\/live\/stream-500606_lsd.m3u8?txSecret=89ef969708e7b3e1887ecea1457f52b1&txTime=68bc1439",
                 "referrer": "https:\/\/socolivev.co\/",
                 "user_agent": ""
             },
             {
                 "title": "Soco HD",
-                "url": "https:\/\/pull.niur.live\/live\/stream-500606_lhd.m3u8?txSecret=1f4310dff4d2745c41dc9d96fe40eb45&txTime=68bc0d31",
+                "url": "https:\/\/pull.niur.live\/live\/stream-500606_lhd.m3u8?txSecret=5b0cd7a43cb7aa1058318868f3f5266d&txTime=68bc1439",
                 "referrer": "https:\/\/socolivev.co\/",
                 "user_agent": ""
             }
         ]
     },
     {
-        "is_live": false,
+        "is_live": true,
         "date": "2025-09-06T05:00:00Z",
         "time": "",
         "id": null,
@@ -248,7 +86,32 @@
         "away_team": "Croydon Kings",
         "away_image": "https:\/\/sta.vnres.co\/file\/common\/20250903\/cf575f0c4d3af105bf44e01f02e62928.png",
         "league": "FFSA SL",
-        "links": []
+        "links": [
+            {
+                "title": "Soco SD",
+                "url": "https:\/\/pull.niues.live\/live\/stream-235232_lsd.m3u8?auth_key=1757138409-0-0-9bf8ed5dd39bbac02c060cfa5ca86d2b",
+                "referrer": "https:\/\/socolivev.co\/",
+                "user_agent": ""
+            },
+            {
+                "title": "Soco HD",
+                "url": "https:\/\/pull.niues.live\/live\/stream-235232_lhd.m3u8?auth_key=1757138409-0-0-51abaa9136cab3282f750f342f401e81",
+                "referrer": "https:\/\/socolivev.co\/",
+                "user_agent": ""
+            },
+            {
+                "title": "Soco SD",
+                "url": "https:\/\/pull.niur.live\/live\/stream-9912110_lsd.m3u8?txSecret=95ee91875cce3aa71e6ab7743d04b4d5&txTime=68bc1439",
+                "referrer": "https:\/\/socolivev.co\/",
+                "user_agent": ""
+            },
+            {
+                "title": "Soco HD",
+                "url": "https:\/\/pull.niur.live\/live\/stream-9912110_lhd.m3u8?txSecret=c049b8e989d35cc6aa57cda31ef7f651&txTime=68bc1439",
+                "referrer": "https:\/\/socolivev.co\/",
+                "user_agent": ""
+            }
+        ]
     },
     {
         "is_live": false,
